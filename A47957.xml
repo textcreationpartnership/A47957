@@ -1,0 +1,715 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The present state of Geneva with a brief description of that city, and several changes and alterations it hath been subject to from the first foundation thereof until this present year, 1681.</title>
+            <title>Historia Genevrina. English</title>
+            <author>Leti, Gregorio, 1630-1701.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 99 KB of XML-encoded text transcribed from 44 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47957</idno>
+            <idno type="STC">Wing L1338</idno>
+            <idno type="STC">ESTC R21467</idno>
+            <idno type="EEBO-CITATION">12738580</idno>
+            <idno type="OCLC">ocm 12738580</idno>
+            <idno type="VID">93055</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47957)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93055)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 696:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The present state of Geneva with a brief description of that city, and several changes and alterations it hath been subject to from the first foundation thereof until this present year, 1681.</title>
+                  <title>Historia Genevrina. English</title>
+                  <author>Leti, Gregorio, 1630-1701.</author>
+               </titleStmt>
+               <extent>[5], 76, [4] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Cademan ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Translation of Historia genevrina.</note>
+                  <note>Advertisement: p. [1]-[4] at end.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Geneva (Switzerland) --  Description and travel.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:93055:1" rendition="simple:additions"/>
+            <pb facs="tcp:93055:1" rendition="simple:additions"/>
+            <p>THE PRESENT STATE OF GENEVA.</p>
+            <p>With a brief DESCRIPTION Of that CITY, And ſeveral changes and alterations it hath been ſubject to from the firſt foundation thereof untill this preſent year, 1681.</p>
+            <p>
+               <hi>LONDON.</hi> Printed for <hi>William Cademan,</hi> at the <hi>Popes-head,</hi> in the <hi>New-Exchange</hi> in the <hi>Strand.</hi> 1681.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:93055:2" rendition="simple:additions"/>
+            <pb facs="tcp:93055:2" rendition="simple:additions"/>
+            <head>TO THE REDER.</head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>THis Book was at firſt a Manuſcript compoſed in <hi>Italian</hi> for the uſe of the preſent <hi>Great Duke of Flor<g ref="char:EOLhyphen"/>ence</hi> by <hi>Signior Gregorio Leti</hi> the ingenious Au<g ref="char:EOLhyphen"/>thor of the <hi>Cardinaliſmo</hi> and <hi>Nepotiſmo,</hi> from whom the Tranſlator had
+<pb facs="tcp:93055:3" rendition="simple:additions"/>it at <hi>Geneva.</hi> Some ne<g ref="char:EOLhyphen"/>ceſſary occaſions having called the <hi>Author</hi> lately into this Country, the <hi>Tranſlator</hi> communicat<g ref="char:EOLhyphen"/>ed to him his deſign of turning that Treatiſe in<g ref="char:EOLhyphen"/>to Engliſh, which he not only approved of, as knowing the value of the <hi>thing,</hi> but hath ſince ad<g ref="char:EOLhyphen"/>ded with his own hand ſome remarkable paſſages which conduce not a little to the accompliſhment of the work, and are of ſo
+<pb facs="tcp:93055:3" rendition="simple:additions"/>freſh a date, as cannot as yet have been publiſhed by any other. So that, Reader, you have here within the narrow com<g ref="char:EOLhyphen"/>paſs of ſo little a Treatiſe all that indeed can be ſaid, or is neceſſary to be known concerning that ſo famed City and Republick.</p>
+            <closer>
+               <signed>Farewel.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:93055:4" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:93055:4"/>
+            <head>THE PESENT STATE OF <hi>GENEVA,</hi> &amp;c.</head>
+            <p>
+               <hi>GENEVA,</hi>
+               <note place="margin">Antiquity.</note> as appears by ſome Chronicles of the Country of <hi>Vaux,</hi> is one of the ancienteſt Cities of <hi>Europe,</hi> being commonly ſup<g ref="char:EOLhyphen"/>poſed to have been built by <hi>Lemanus,</hi> Son of <hi>Hercules,</hi> the great King of the <hi>Gaules,</hi> who gave the name like<g ref="char:EOLhyphen"/>wiſe to the Lake <hi>Lemane,</hi> by many cal<g ref="char:EOLhyphen"/>led the Lake of <hi>Geneva.</hi>
+            </p>
+            <p>The firſt foundation of it was laid in the year of the World 3994. upon a little riſing Hill covered with Juniper Trees, called by the French <hi>Geneuriers,</hi> from whence it afterwards took the name of <hi>Geneura; Lemanus</hi> having gran<g ref="char:EOLhyphen"/>ted many Priviledges to the place, and erected the ſame into a City incorpo<g ref="char:EOLhyphen"/>rated with great immunities and free<g ref="char:EOLhyphen"/>domes,
+<pb n="2" facs="tcp:93055:5"/>preſcrib'd them a Form of Go<g ref="char:EOLhyphen"/>vernment ſuitable to the Cuſtomes of thoſe times.</p>
+            <p>In the time of <hi>Julius Caeſar</hi> this Ci<g ref="char:EOLhyphen"/>ty was of great renown, and by him called the Bulwork of <hi>Helvetia,</hi>
+               <note place="margin">Julius Cae<g ref="char:EOLhyphen"/>ſar.</note> and frontiere Town of the <hi>Allobrogi,</hi> which name at preſent it deſerves more than ever.</p>
+            <p>When the eruption was made upon the <hi>Swiſſers</hi> in the year of God 230. by the Emperor <hi>Heliogabalus,</hi>
+               <note place="margin">Heliogabi<g ref="char:EOLhyphen"/>lus.</note> 
+               <hi>Geneva</hi> was al<g ref="char:EOLhyphen"/>moſt utterly deſtroyed by Fire; but in the time of <hi>Aurelian</hi> the Emperour,<note place="margin">Deſtroyed.</note> about the year of Grace 270. it was by the command of the ſame Emperor rebuilt,<note place="margin">Rebuilt.</note> who having beſtowed many priviledges on thoſe that came to repair it, com<g ref="char:EOLhyphen"/>manded it for the future to be called <hi>Aurelia,</hi> but the Inhabitants could not eaſily baniſh from their minds the an<g ref="char:EOLhyphen"/>cient name of <hi>Geneva,</hi> which to this day it holds, tho during the Life of <hi>Aure<g ref="char:EOLhyphen"/>lian,</hi> they called it <hi>Aurelia.</hi>
+            </p>
+            <p>The Situation of this City is one of the pleaſanteſt in <hi>Europe,</hi> being on the North ſide, waſhed by the Lake, and on the South adorned with a ſpatious
+<pb n="3" facs="tcp:93055:5"/>Neighbouring Plain, reaching to the very Walls, and encompaſſed by two large Rivers, the <hi>Rone</hi> and the <hi>Arue.</hi>
+            </p>
+            <p>This plain ſerves the Citizens for a place of diverſion and Recreation: There they walk to take the Air, and refreſh themſelves in the delightful Gardens, which inviron it, of which there is a great number. There like<g ref="char:EOLhyphen"/>wiſe they train and exerciſe their Soul<g ref="char:EOLhyphen"/>diers, and divert themſelves at Play in a long Mall.</p>
+            <p>
+               <note place="margin">Plain Pa<g ref="char:EOLhyphen"/>lace.</note>This Plain is commonly called the <hi>Plain Palace,</hi> and in a Corner thereof, where the <hi>Arue</hi> falls into the <hi>Rone,</hi> there is a ſpatious burying place for the dead.<note place="margin">Burying-Place.</note>
+            </p>
+            <p>The Confines of <hi>Geneva</hi> are on the Eaſt, and South the Dutchy of <hi>Savoy,</hi> on the Weſt the Country of <hi>Gex</hi> belong<g ref="char:EOLhyphen"/>ing to the King of <hi>France,</hi> and on the North ſide the Lake. <hi>Lemane,</hi> and be<g ref="char:EOLhyphen"/>yond that <hi>Switzerland:</hi> From the Stee<g ref="char:EOLhyphen"/>ple of St. <hi>Peters</hi> Church, which is a ſtrong high Tower might have been ſeen formerly ſix (tho at preſent but five Principalities, the Spaniſh <hi>Burgun<g ref="char:EOLhyphen"/>dy</hi> being united to <hi>France</hi>) to wit, <hi>Sa<g ref="char:EOLhyphen"/>voy, France,</hi> the Spaniſh <hi>Burgundy, Swit<g ref="char:EOLhyphen"/>zerland,
+<pb n="4" facs="tcp:93055:6"/>Sion,</hi> and <hi>Geneva,</hi> a thing ſo ſingular, as cannot be parallel'd in the World.</p>
+            <p>This City hath of a long time been walled,<note place="margin">Fortifica<g ref="char:EOLhyphen"/>tions.</note> and indifferently well fortified; but ſince the year 1659. the Fortifica<g ref="char:EOLhyphen"/>tions both within and without have been augmented with Baſtions, half-Moons, and Bulwarks, at which they are ſtill buſily imployed, the Engineer of the Republick, an expert and skil<g ref="char:EOLhyphen"/>ful Artiſt, daily aſſiſting and over-ſeeing their work.</p>
+            <p>In the year 1662. The States and o<g ref="char:EOLhyphen"/>ther private Perſons of the United <hi>Ne<g ref="char:EOLhyphen"/>therlands</hi> made a Preſent to the Repub<g ref="char:EOLhyphen"/>lick of above thirty thouſand Crowns,<note place="margin">Hollanders</note> which Sum was applyed to the raiſing of a ſtrong and regular Bulwork on the ſide of the <hi>Rone,</hi> whereon by Order of the Senate this Inſcription was put,</p>
+            <q>
+               <hi>Oppugna oppugnantes me ex munificentiâ Celſiſſ. Ordinum Faederatorum</hi> Belgii, 1663.</q>
+            <p>The City ſeems divided,<note place="margin">Bridges.</note> becauſe the <hi>Rone</hi> running through it maketh two Iſlands, that ſuſtain four Bridges, two whereof which joyn to St. <hi>Gervaſe</hi> have
+<pb n="5" facs="tcp:93055:6"/>houſes and ſhops upon them, but the other two that are united with the bo<g ref="char:EOLhyphen"/>dy of the City, ſince the fire in the year 1670. have been left open with<g ref="char:EOLhyphen"/>out any houſes to cover them.</p>
+            <p>Before the Reformation there were many caſual fires, ſometimes in one,<note place="margin">Fires.</note> and ſometimes in another part of the City; but ſince the year 1534 that the Reformation began, until 1670. by the grace of God and provident care of the Magiſtrates, the City remained free from any ſuch accident, when on <hi>Mon<g ref="char:EOLhyphen"/>day</hi> the 17th. of <hi>January</hi> about twelve of the Clock at night a dreadful fire broke out upon one of the largeſt and moſt inhabited of the four Bridges, and burnt with ſo much force and rage, that in the ſpace of three hours, tho the night was calm, without a breath of Wind ſtirring, the whole buildings, to the number of threeſcore and ten houſes, were utterly conſumed in the Conflagration, above an hundred and thirty Families deprived of habitation and a hundred Perſons, Men, Women, and Children deſtroyed in the mercileſs flames; a dreadfull argument, that if the People could not eſcape with
+<pb n="6" facs="tcp:93055:7"/>their Lives, they cou'd not ſave their Goods. The loſs was reputed to a<g ref="char:EOLhyphen"/>mount to a French Million of Mony, and was the greater, becauſe many ſub<g ref="char:EOLhyphen"/>ſtantial Merchants lived upon that Bridge. Many Collections were pre<g ref="char:EOLhyphen"/>ſently made throughout the City, for the relief of thoſe poor People that were burnt out of all, and the Prote<g ref="char:EOLhyphen"/>ſtants of <hi>Switzerland, Germany,</hi> and o<g ref="char:EOLhyphen"/>ther places gave ſeaſonable inſtances of their Charity to the diſtreſſed upon that occaſion.</p>
+            <p>The Bridge is now rebuilt with moſt excellent Workmanſhip,<note place="margin">New-B<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>idge.</note> but by Decree of the Senate no houſes nor Shops are for the future to be built upon it, tho it be much ſtronger now than it was before, ſo that the City ſeems at preſent di<g ref="char:EOLhyphen"/>vided.</p>
+            <p>The Fabrick of their houſes is not very conſiderable,<note place="margin">Their Buil<g ref="char:EOLhyphen"/>ding.</note> the People having been alwayes more addicted to conveni<g ref="char:EOLhyphen"/>ence than magnificence, ſo that we need ſay nothing but of their publick Structu<g ref="char:EOLhyphen"/>res, which are, the Town Houſe, repaired and beautified ſince the Reformation, the Arſenal, five publick Granaries, the Mint and the Towers, two of which
+<pb n="7" facs="tcp:93055:7"/>ſtand, one on each ſide of the New-Bridge.</p>
+            <p>
+               <note place="margin">Eccleſia<g ref="char:EOLhyphen"/>ſtick Buil<g ref="char:EOLhyphen"/>dings.</note>The Eccleſiaſtick Fabricks are the four Churches, to wit, St. <hi>Peters</hi> the Cathedral, St. <hi>Gervaſe,</hi> St. <hi>Magdalens,</hi> and St. <hi>Germans,</hi> beſides two little Chap<g ref="char:EOLhyphen"/>pels, where the Lectures of Theology, Greek Hebrew and Philoſophy are held; and in the biggeſt of the two, preach<g ref="char:EOLhyphen"/>ing in high Dutch.</p>
+            <p>There is beſides a Colledge built ſince the Reformation, containing Schools for the Youth that learn humanity, and houſes for the Miniſters and Profeſ<g ref="char:EOLhyphen"/>ſors.</p>
+            <p>There were heretofore moſt magni<g ref="char:EOLhyphen"/>ficent Buildings, both for the Regular and Secular Clergy, and eſpecially the rich Abbey of St. <hi>Victor,</hi> the Abbot whereof was a Temporal Prince inve<g ref="char:EOLhyphen"/>ſted with many Juriſdictions.</p>
+            <p>In the great Hall of the Colledge is the Library, furniſhed with excellent Old Books. The Library Keeper is a Miniſter, who is to take care of it, and ſhew it to ſuch Strangers as deſire to ſee it.</p>
+            <p>Every day in the week there is prea<g ref="char:EOLhyphen"/>ching in two places (to wit) in the<note place="margin">Preaching</note>
+               <pb n="8" facs="tcp:93055:8"/>Churches of St. <hi>Peter,</hi> and St. <hi>Gervaſe,</hi> and thrice a week in St. <hi>Magdalens,</hi> but on <hi>Sunday,</hi> there are three Sermons at St. <hi>Peters,</hi> and as many at St. <hi>Gervaſe's,</hi> that is, two in the forenoon, and one in the afternoon; beſides Catechizing at Noon in each of the ſaid Churches. There is preaching twice every <hi>Sunday</hi> likewiſe at St. <hi>Magdalens</hi> in the Morning and Evening, with Catechizing at Noon. Every <hi>Sunday</hi> Morning, and <hi>Wedneſday</hi> in the afternoon, there is a Sermon in High Dutch, and every <hi>Thurſday</hi> in Ita<g ref="char:EOLhyphen"/>lian.</p>
+            <p>St. <hi>Peters</hi> Church was in ancient times dedicated to <hi>Apollo,</hi> as is to be ſeen in ſome very old Inſcriptions, ſe<g ref="char:EOLhyphen"/>veral Cardinals and many Prelates of great Renown were buried in this Church when the Romiſh Religion flouriſhed here; and ſince the Refor<g ref="char:EOLhyphen"/>mation in one of its Chappels, <hi>An<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o</hi> 1628. was interred <hi>Emilia</hi> of <hi>Naſſau,</hi> and ſometime after the Princeſs her Si<g ref="char:EOLhyphen"/>ſter, both Siſters to the Prince of <hi>O<g ref="char:EOLhyphen"/>range, Emilia</hi> being Wife to <hi>Don Anto<g ref="char:EOLhyphen"/>nio</hi> King of <hi>Portugal,</hi> who was baniſhed by the Spaniards. In another Chappel lies the Body of the Duke of <hi>Rohan</hi> bu<g ref="char:EOLhyphen"/>ried
+<pb n="9" facs="tcp:93055:8"/>in the year 1638 in a moſt magni<g ref="char:EOLhyphen"/>ficent Monument built by his Dutcheſs, who was laid there alſo near her Huſ<g ref="char:EOLhyphen"/>band, in the year 1660. as their Son <hi>Tan<g ref="char:EOLhyphen"/>cred</hi> was in the Year 1661.</p>
+            <p>There are two Hoſpitals,<note place="margin">Hoſpita<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</note> the one within the City for releif of the Poor, not only of the Place, but likewiſe of all ſorts of Strangers; and the other without the City in the Burying-place of the <hi>Plain-Palace,</hi> being a Peſt-houſe for receiving of the infected in time of the Plague; when the Catholick Religi<g ref="char:EOLhyphen"/>on reigned here, there were ſeven Ho<g ref="char:EOLhyphen"/>ſpitals.</p>
+            <p>
+               <note place="margin">Maſter of the Hoſpi<g ref="char:EOLhyphen"/>tals.</note>The Maſter of the Hoſpital continues in place three years, but he is uſually confirmed by the Counſel of two hun<g ref="char:EOLhyphen"/>dred, who have the power of Election for the next three years, and this place, as being very profitable, is much ſought after. He hath for his Aſſiſtants (who are the Governors of the Hoſpital) nine Laymen with a Miniſter and a Syndick, who is Preſident in all Courts kept for the management of the Revenue of the Hoſpital.</p>
+            <p>
+               <note place="margin">Viſiting of the dead.</note>When any one dies, the body is in<g ref="char:EOLhyphen"/>ſtantly veiwed by a Chirurgion appoin<g ref="char:EOLhyphen"/>ted
+<pb n="10" facs="tcp:93055:9"/>by the Senate for that purpoſe; and without this ſearch it cannot be buried.</p>
+            <p>The Dead are buried without any ceremonious Pomp,<note place="margin">Burying.</note> being accompani<g ref="char:EOLhyphen"/>ed to the Grave by few or many, accor<g ref="char:EOLhyphen"/>ding to the quality of the perſon, but there is no obligation upon any to be preſent unleſs invited.</p>
+            <p>
+               <note place="margin">Burying of Strangers of Quality.</note>Perſons of Quality, who are ſtran<g ref="char:EOLhyphen"/>gers, are interred in the Cloyſter of St. <hi>Peters,</hi> where <hi>Theodore Beza,</hi> who depar<g ref="char:EOLhyphen"/>ted this life in the Year 1604. lies bu<g ref="char:EOLhyphen"/>ried.</p>
+            <p>
+               <note place="margin">Church<g ref="char:EOLhyphen"/>yard of St. <hi>Gervaſe.</hi>
+               </note>In the Church yard of St. <hi>Gervaſe</hi> lie ſeventeen Citizens, who dy<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d fighting nobly in the defence of their Country, the night of the Scalado: to whoſe me<g ref="char:EOLhyphen"/>mory the Senate cauſed this following Inſcription to be cut in a Wall.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="inscription">
+                        <head>D. O. M. S.</head>
+                        <p>
+                           <hi>Quorum infra nomina Scripta, Corpora ſita, (Poſteri noſtri) dum ingreſſis ipsâ in pa<g ref="char:EOLhyphen"/>ce urbem hoſtibus; &amp; fortiter arma ſua, &amp; ſedulo munia alia perneceſſario tempore op<g ref="char:EOLhyphen"/>p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>nunt; glorioſo laudabilique exitu pro Re<g ref="char:EOLhyphen"/>pub. ceciderunt. ad</hi> d. XII. Decemb. 1602.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb n="11" facs="tcp:93055:9"/>
+            <p>Many of the Inhabitants, who die in that quarter of the City are uſually buried in this Churchyard.</p>
+            <p>Marriages are here celebrated with the uſual Ceremonies,<note place="margin">Marria<g ref="char:EOLhyphen"/>ges.</note> that is with the conſent of the Parties, who being agreed, and having mutually paſt a Promiſe of Marriage and interchang'd a Ring (if they think it fit) they make a note of the Banes, with the names of the Per<g ref="char:EOLhyphen"/>ſons to be married, which being ſign<g ref="char:EOLhyphen"/>ed by the cheif Syndick, is given to the Miniſter, who publiſhes the ſame from the Pulpit three Sundayes ſucceſſively, and afterwards, no lawful impediment being objected, they may marry when they pleaſe in the Pariſh Church of the Husband, or in any other Church if they judge it more convenient.</p>
+            <p>The Burgeſſes and Citizens are not tied to give any ſecurity; but the In<g ref="char:EOLhyphen"/>habitants or Inmates (as they are cal<g ref="char:EOLhyphen"/>led) if they intend to marry, are obli<g ref="char:EOLhyphen"/>ged to pay to the Hoſpitals, or French Box, about three Piſtols, or to give in ſecurity for a greater Sum, that is, for thirty Crowns.</p>
+            <p>Publick dancing and muſick are not allowed,<note place="margin">Dancing.</note> however for the moſt part
+<pb n="12" facs="tcp:93055:10"/>they connive at it, and ſuffer the Bride<g ref="char:EOLhyphen"/>groom and Bride to paſs away their time with ſome Dance, or Ball with<g ref="char:EOLhyphen"/>in doores.</p>
+            <p>When any impediment of Marriage is objected; the matter is brought be<g ref="char:EOLhyphen"/>fore the Conſiſtory or Presbytery, who receive the neceſſary informations in the caſe: And in matters of Importance the parties muſt be cited, and appear before the Magiſtrates, and their cauſe legally tried.</p>
+            <p>
+               <note place="margin">Inhabi<g ref="char:EOLhyphen"/>tants Bur<g ref="char:EOLhyphen"/>geſſes and Citizens.</note> 
+               <hi>Geneva</hi> is inhabited by three ſorts of perſons, Inhabitants or Inmates, Bur<g ref="char:EOLhyphen"/>geſſes and Citizens. The Inhabitants pay greater contributions than the o<g ref="char:EOLhyphen"/>ther, and yet they enjoy not the ſame priviledges: Beſides the Senate may ſend them going when they pleaſe, and it is likewiſe permitted to them upon leave asked to be gone, if they think it convenient.</p>
+            <p>The Burgeſſes are thoſe who buy their Freedom, and enjoy all ſorts of priviledges; but cannot be admitted to the higheſt Dignities, and at preſent the price of ones Freedome is determin<g ref="char:EOLhyphen"/>ed according to the pleaſure of the Council. The Sons of Burgeſſes born
+<pb n="13" facs="tcp:93055:10"/>within the City are Citizens, and may attain to the higheſt place and Dignity in the Republick.</p>
+            <p>
+               <note place="margin">A Colony of divers Nations.</note>In former times <hi>Geneva</hi> was a Colony of the <hi>Allobrogi,</hi> but ſince the reforma<g ref="char:EOLhyphen"/>tion it is become a mixed Colony of all the Nations of <hi>Europe,</hi> eſpecially of <hi>French, Germans, Italians</hi> and <hi>Spani<g ref="char:EOLhyphen"/>ards,</hi> who being perſecuted for the truth of the Goſpel repair daily thither in whole Families: Hence it is that when before the reformation, there were not above five thouſand Souls in the City, it is at preſent ſo populous by the great concourſe of people who flock thither, that it contains no fewer than thirty five thouſand Souls of di<g ref="char:EOLhyphen"/>vers Nations, and this is the reaſon why the humor of that people is ſo mixt and various, that it is not eaſie to find out the temper of any perſon there without long experience and converſation; every one retaining ſtill ſome Tincture of the Antient inſtinct of their Original Country.</p>
+            <p>A Prince of the Family of <hi>Heſſe</hi> being in Incognito in <hi>Geneva</hi> in the Month of <hi>July</hi> 1602, compoſed the following verſes.</p>
+            <pb n="14" facs="tcp:93055:11"/>
+            <q>
+               <lg>
+                  <head>Mauritius <hi>Haſſiae,</hi> Landgravius.</head>
+                  <l>
+                     <hi>Quiſquis amat vitam ſobriam caſtamque tueri,</hi>
+                  </l>
+                  <l>
+                     <hi>Perpetua eſto illi caſta</hi> Geneva <hi>domus.</hi>
+                  </l>
+                  <l>
+                     <hi>Quiſquis amat vitam hanc bene vivere, vi<g ref="char:EOLhyphen"/>veret illam,</hi>
+                  </l>
+                  <l>
+                     <hi>Illi iterum fuerit pulchra</hi> Geneva <hi>locus.</hi>
+                  </l>
+                  <l>
+                     <hi>Hic vitae invenies quicquid conducit utrique,</hi>
+                  </l>
+                  <l>
+                     <hi>Relligio hic ſana eſt, aura, ager atque lacus.</hi>
+                  </l>
+               </lg>
+            </q>
+            <p>
+               <hi>Engliſhed.</hi>
+            </p>
+            <q>
+               <lg>
+                  <l>A ſtrict and ſober life if you'd embrace,</l>
+                  <l>Let chaſt <hi>Geneva</hi> be your dwelling place.</l>
+                  <l>Or wou'd you lead a lawleſs life and fice,</l>
+                  <l>The ſame <hi>Geneva</hi> your abode muſt be,</l>
+                  <l>Convenience here for either life is found,</l>
+                  <l>The Air, Land, Water and Religion ſound.</l>
+               </lg>
+            </q>
+            <p>The people of <hi>Geneva</hi> are very induſtri<g ref="char:EOLhyphen"/>ous,<note place="margin">Induſt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y.</note> and ſince they have not land e<g ref="char:EOLhyphen"/>nough to take up their time in agricul<g ref="char:EOLhyphen"/>ture and Husbandy, as other ſtates of larger Territories have, they apply themſelves ſedulouſly to the improve<g ref="char:EOLhyphen"/>ment
+<pb n="15" facs="tcp:93055:11"/>of handycraft Trades.</p>
+            <p>
+               <note place="margin">Clocks and Watches.</note>Clock and Watch making is a Trade of great eſteem, and of Maſters and ſer<g ref="char:EOLhyphen"/>vants there are above three hundred that follow that occupation; of whom there are ſome that drive a good Trade by it, not only in all the Countries of <hi>Europe</hi> but alſo in <hi>Turky, Perſia,</hi> and other re<g ref="char:EOLhyphen"/>mote Kingdoms: It is neceſſary tho that ſuch as come hither to buy, have their eyes in their heads; if they would not be cheated; becauſe there are bad as well as good Artiſts among them.</p>
+            <p>
+               <note place="margin">Gold-Smiths Gun-Smiths</note>There are many excellent and skill<g ref="char:EOLhyphen"/>ful Gold-ſmiths here alſo, but above all things tire-Arms are here made in per<g ref="char:EOLhyphen"/>fection, ſuch as Harquebuſes, Piſtols, Muſquets and the like, and many Gen<g ref="char:EOLhyphen"/>tlemen provide themſelves from hence.</p>
+            <p>The <hi>Genevians</hi> want neither Cour<g ref="char:EOLhyphen"/>age nor reſolution, having given proofs of the ſame on many occaſions againſt the <hi>Savoyards,</hi>
+               <note place="margin">Liberty in great e<g ref="char:EOLhyphen"/>ſteem.</note> but eſpecially when their beloved liberty lies at ſtake, for which they are ready (as they have alwaies been) to Sacrafice a thouſand lives.<note place="margin">an inſtance of it.</note> 
+               <hi>Pecolat</hi> a Citizen of <hi>Geneva</hi> being ta<g ref="char:EOLhyphen"/>ken in <hi>Savoy,</hi> and made Priſoner by <hi>Charles</hi> the Third a declared enemy
+<pb n="16" facs="tcp:93055:12"/>of the liberty of <hi>Geneva,</hi> and put to the Rack becauſe he wou'd confeſs nothing to the prejudice of his Country; the <hi>Savoyards</hi> provoked by his conſtancy, and thinking him enchanted, called for a Barber to ſhave him, and to waſh off all ſuſpition of a Charme. <hi>Pecolat</hi> ſnatching the Razor out of the Bar<g ref="char:EOLhyphen"/>bers hand, inſtantly cut out his ton<g ref="char:EOLhyphen"/>gue, that thereby he might deprive himſelf of the means of diſcovering any thing to the hurt of his Country.</p>
+            <p>
+               <note place="margin">Antient Inſcripti<g ref="char:EOLhyphen"/>ons.</note>In the time of Paganiſm <hi>Apollo</hi> was worſhipped by the Genevians, as ap<g ref="char:EOLhyphen"/>pears by many ancient Inſcriptions, that are to be ſeen in the City. In an old houſe, in the great Street you'l find, <hi>Apolloni Munfuſtius,</hi> and in a Wall of the Colledge there is ſtill to be ſeen, <hi>Apolloni Mueſtius Mercator,</hi> without the Chain of the Harbour, their is a Rock called <hi>Neptunes</hi> Stone, but formerly <hi>Ne<g ref="char:EOLhyphen"/>ptunes</hi> Prayer,<note place="margin">Neptunes rock.</note> becauſe in time of Pa<g ref="char:EOLhyphen"/>ganiſm the Boat men offered there Sa<g ref="char:EOLhyphen"/>crifices there, when they were upon undertaking of any voyage.</p>
+            <p>
+               <note place="margin">The Chri<g ref="char:EOLhyphen"/>ſtian Reli<g ref="char:EOLhyphen"/>gion plan<g ref="char:EOLunhyphen"/>ted.</note>By ſome Manuſcripts, and eſpecially in a very ancient Bible kept in the Li<g ref="char:EOLhyphen"/>brary, it appears that the Church of
+<pb n="17" facs="tcp:93055:12"/>
+               <hi>Geneva</hi> was planted by the Diſciples of the Apoſtles,<note place="margin">Conſecra<g ref="char:EOLhyphen"/>tion of St. <hi>Peters</hi> Church.</note> and that the Church of St. <hi>Peter</hi> was conſecrated by St. <hi>Denis</hi> and <hi>Paradocus</hi> his Scholar, who remain<g ref="char:EOLhyphen"/>ed Biſhop of <hi>Geneva,</hi> when St. <hi>Denis</hi> was gone to preach the Goſpel at <hi>Pa<g ref="char:EOLhyphen"/>ris.</hi>
+            </p>
+            <p>The Succeſſors of <hi>Paradocus</hi> became afterwards not only Cheif in Spirituals, but alſo Supream in Temporal Affairs, ſo that until the Year 1535. <hi>Geneva</hi> was Governed by a Succeſſion of 74 Biſhops, of which <hi>Peter de la Baume</hi> was the laſt, who being a Prelate odi<g ref="char:EOLhyphen"/>ous for his laſcivious life, and there<g ref="char:EOLhyphen"/>fore very timorous, upon information that the Citizens intended to embrace the reformed Religion already receiv<g ref="char:EOLhyphen"/>ed by their Neighbours, was ſo ſur<g ref="char:EOLhyphen"/>priz'd with fear of ſome unhappy ac<g ref="char:EOLhyphen"/>cident in ſuch a revolution, that he with his Chanons on a ſudden retired into <hi>Burgundy,</hi> giving way (as he ſaid) to this firſt popular commotion to ſpend it ſelf, but he was greatly mi<g ref="char:EOLhyphen"/>ſtaken, for the people more encourag<g ref="char:EOLhyphen"/>ed by the abſence of their Biſhop and Clergy gave a beginning to the refor<g ref="char:EOLhyphen"/>mation,
+<pb n="18" facs="tcp:93055:13"/>and the chief Miniſter that preached there was one <hi>William Farrell</hi> a very Learned man. The <hi>Senate</hi> or<g ref="char:EOLhyphen"/>dered that on the right hand of the Gate of the publick Palace this inſcription ſhou'd be put, as it is to be ſeen by paſſengers at this day.</p>
+            <p>
+               <hi>Profligatâ Romani Antichriſti tyrannide, abrogatiſque ejus ſuperſtitionibus, Sacro ſancta Chriſti Religio,</hi>
+               <note place="margin">Inſcription of the Re<g ref="char:EOLhyphen"/>formation.</note> 
+               <hi>hic in ſuam purita<g ref="char:EOLhyphen"/>tem, Eccleſia in meliorem ordinem ſingulari Dei beneſicio repoſita, &amp; ſimul pulſis fuga<g ref="char:EOLhyphen"/>tiſque hoſlibus, <g ref="char:V">Ʋ</g>rbs ipſa in ſuam liberta<g ref="char:EOLhyphen"/>tem non ſine inſign miraculo reſtituto ſucrit.</hi> S. P. Q. G. <hi>Monumentum hoc perpetuae memoriae cauſa fieri, atque hoc lo<g ref="char:EOLhyphen"/>co erigi curavit, quo ſuam erga Deum gratitudinem ad Poſteros teſtatam fa<g ref="char:EOLhyphen"/>ceret.</hi>
+            </p>
+            <p>
+               <note place="margin">Mony coyn<g ref="char:EOLhyphen"/>ed.</note>In the ſame year, 1535. And on the 24th. of <hi>October,</hi> the Senate began to coyn mony. The firſt Inſcription or Motto about the Arms, was <hi>Poſt Tenebras ſpero Lucem,</hi> but it was order<g ref="char:EOLhyphen"/>ed to be altered and inſtead thereof, only <hi>poſt tenebras lux</hi> to be ſtamped on the one ſide, and on the other <hi>Deus noſter pugna pro nobis.</hi>
+            </p>
+            <pb n="19" facs="tcp:93055:13"/>
+            <p>
+               <hi>Geneva</hi> was under the Juriſdiction of a Biſhop,<note place="margin">Biſhop.</note> as their Spiritual and Tem<g ref="char:EOLhyphen"/>poral Head and Governour. He had under him thirty two Chanons, one half of them being alwayes to be Citi<g ref="char:EOLhyphen"/>zens, but all of them together exerciſed their Juriſdiction: there were beſides Eleven Chaplains,<note place="margin">Maccabees</note> of whom ſix were called Maccabees, and this Congre<g ref="char:EOLhyphen"/>gation was inſtitued by <hi>John Alermet,</hi> Biſhop of <hi>Geneva</hi> in the year, 1378. To ſerve in the Cathedrral of Saint <hi>Peter,</hi> which he ſubjected to the Can<g ref="char:EOLhyphen"/>onical Juriſdiction, and endowed with conſiderable revenues, ordering them to be called Maccabees; beſides them were ſix Clerks of the Quire, and ſeven Curates.</p>
+            <p>The regular Clergy had five Mon<g ref="char:EOLhyphen"/>aſteries; three Frieries, to wit,<note place="margin">Monaſter<g ref="char:EOLhyphen"/>ies.</note> of St. <hi>Dominick,</hi> St. <hi>Francis,</hi> and St. <hi>Au<g ref="char:EOLhyphen"/>guſtine:</hi> And two Nunneries, the <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of St. <hi>Clare,</hi> and the other of <hi>Domini<g ref="char:EOLhyphen"/>cans,</hi> with their Chaplains.</p>
+            <p>
+               <note place="margin">Eection of the Biſhop.</note>In the Primitive times the Biſhop was elected by the general Council of the people, which was the cuſtome likewiſe in other Biſhopricks of <hi>Suitzer<g ref="char:EOLhyphen"/>land;</hi> but he was alwaies confirmed
+<pb n="20" facs="tcp:93055:14"/>by the Pope, who afterward deprived them of that Priviledge, conferring the power of Election on the Chanons, who by plurality of voices choſe two, of whom the Pope according to his pleaſure confirmed the one.</p>
+            <p>There were moreover four Annual Syndicks (as there are at preſent) who governed as Temporal Princes,<note place="margin">Election of the Syn<g ref="char:EOLhyphen"/>dicks be<g ref="char:EOLhyphen"/>fore the Reformati<g ref="char:EOLhyphen"/>on.</note> being Judges in Criminal cauſes, Lords of the City, Maſters of the Gates, and of all that belonged to the Militia, which the Biſhop never challenged or medled with. The General Council conſiſted of Citizens and Burgeſſes, and to it belonged the Election of the four Syndicks, which was on Saint <hi>Martins</hi> day. Every Syndick after<g ref="char:EOLhyphen"/>wards choſe five Councellors, and all together Elected a Treaſurer: From ſun ſetting until break of day, the fo<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Syndicks alone had abſolute Ju<g ref="char:EOLhyphen"/>riſdiction within the City, and acted what they judged convenient for the Publick by their own Supreame Au<g ref="char:EOLhyphen"/>thority.</p>
+            <p>When the Biſhops Lieutenant or Vidone, as they called him in that time, aphrehended a Malefactor, he remit<g ref="char:EOLhyphen"/>ted
+<pb n="21" facs="tcp:93055:14"/>him to the Syndicks;<note place="margin">Admini<g ref="char:EOLunhyphen"/>ſtration of Juſtice be<g ref="char:EOLhyphen"/>fore the Reforma<g ref="char:EOLhyphen"/>tion.</note> who were obliged within the ſpace of twenty four houres to do Juſtice upon him, from which Sentence there was no appeal; it is true the Biſhop had the power of pardoning and ſhewing mercy if he pleaſed; the Sentence be<g ref="char:EOLhyphen"/>ing given by the Syndicks, it was intimated to the Priſoner, who was then again turned over into the hands of the Biſhops Lieutenant with orders from them to cauſe the Sentence to be put in Execution, and if the Biſhop gave no pardon, the Lieutenant de<g ref="char:EOLhyphen"/>livered up the ſame Priſoner to ano<g ref="char:EOLhyphen"/>ther Lieutenant belonging to the Counts of <hi>Geneva,</hi> who were feudatories of the Biſhop, and he it was that put the Sentence in Execution: this was all the power and Authority that the Counts of <hi>Geneva</hi> had;<note place="margin">Counts of <hi>Geneva.</hi>
+               </note> and it is alſo to be obſerved that Executions were alwayes performed without the City in a place called <hi>Champel,</hi> where one of the Gibbets is to be ſeen to this day.</p>
+            <p>The Duke of <hi>Savoy</hi> as Succeſſour to theſe Counts,<note place="margin">Pretenti<g ref="char:EOLhyphen"/>ons of the Duke of <hi>Savoy.</hi>
+               </note> pretends the Sover<g ref="char:EOLhyphen"/>anity over <hi>Geneva,</hi> though there be no<g ref="char:EOLhyphen"/>thing more certain than that the ſaid
+<pb n="22" facs="tcp:93055:15"/>Counts never had any Juriſdiction of Command, nor right of Dominion in that City.</p>
+            <p>His Highneſs indeed makes great pretentions, and is very well ſatisfied with the reaſonableneſs of the ſame, though they be backt with very weak and frivolous evidences, ſeeing the proofs that are alleadged to make good thoſe pretentions, come far ſhort of what they are intended to aſſert: one argument is, that though the Biſhop of <hi>Geneva</hi> was chief in Spirituals and Temporals, and was honoured with the Title of Prince of the Empire; nevertheleſs (His Royal Highneſs would have it) it behoved him to do homage to the Duke regent as to his Superiour, and to Swear fealty to him the day of his Inauguration; but there is not one Authentick act to be found of this, and the only Oath the Biſhop took was to the Syndicks, to whom he ſwore, to maintain and preſerve the priviledges and liberties of the City.</p>
+            <p>It is further alledged that Duke <hi>Charles</hi> of <hi>Savoy</hi> went frequently to <hi>Geneva</hi> with his Dutcheſs <hi>Beatrix,</hi> where
+<pb n="23" facs="tcp:93055:15"/>all Imaginable honor and reſpect was ſhewed him: — This I am apt to beleive, but the conſequence is not good; for the <hi>Genevians</hi> are civil and obliging to all ſtrangers, but eſpecially to per<g ref="char:EOLhyphen"/>ſons of high merit and quality.</p>
+            <p>It is certain that <hi>Geneva</hi> was alwaies a free City, and that long before the Houſe of <hi>Savoy</hi> was ſpoken of, or came in play, they were Governed by their own Laws and Statutes Imperial and municipal edicts; the Biſhops, indeed of <hi>Geneva,</hi> who in the fall of the <hi>Ro<g ref="char:EOLhyphen"/>man</hi> Empire raiſed themſelves to Su<g ref="char:EOLhyphen"/>premacy in temporals in that City, as well as other Biſhops had done in o<g ref="char:EOLhyphen"/>ther places, were commonly in conteſt with the Counts of <hi>Geneva,</hi> for the do<g ref="char:EOLhyphen"/>minion and Governmenr of the City, a ſhort account of which, <hi>I</hi> ſhall hear give you. After that one <hi>Humbert</hi> Biſhop of <hi>Geneva</hi> had exchanged this for ano<g ref="char:EOLhyphen"/>ther life, <hi>Andutius</hi> his Succeſſor ap<g ref="char:EOLhyphen"/>plied himſelf to the Emperor <hi>Frederick</hi> the firſt, and obtained of him to be declared abſolute Prince of the City of <hi>Geneva,</hi> that in Temporals he ſhould be ſubject to none but the Emperour alone, and that he ſhould be free, and
+<pb n="24" facs="tcp:93055:16"/>Exempt from all taxes and tribute, but the Biſhop being returned with deſign to enjoy the prerogative granted him by the Emperour; the Counts raiſed greater trouble againſt him than before, not ſuffering him to exerciſe any ſuch priviledges; though this ſtorme was afterwards calmed by the Golden-bull of the ſame Emperour in favour of the Biſhop, and publiſhed in the year, 1162. For ſome time after, matters went on quietly to the ſatis<g ref="char:EOLhyphen"/>faction of the Biſhop, until that one <hi>William</hi> Count of the <hi>Geneveſes,</hi> who took upon himſelf the Title of Count of <hi>Geneva,</hi> being for Rebellion and o<g ref="char:EOLhyphen"/>ther heinous Crimes outlawed by the Emperour, and deprived of the fief which he held of the Biſhop, betook him<g ref="char:EOLhyphen"/>ſelf to his friends for help and Aſſiſtance.</p>
+            <p>This having occaſioned a long warr whereby the forces of this Biſhop and the City were much impaired the <hi>Gene<g ref="char:EOLhyphen"/>vians</hi> call'd to their Aſſiſtance a Count of <hi>Maurianna</hi> who was afterwards Count of <hi>Savoy,</hi> but this put no end to the War; on the contrary it encreaſed day<g ref="char:EOLhyphen"/>ly, in ſo much that the Count of <hi>Mau<g ref="char:EOLhyphen"/>rianna</hi> being powerful, he ſeized ſeveral
+<pb n="25" facs="tcp:93055:16"/>places and Caſtles which belonged to thoſe of <hi>Geneva,</hi> encroching dayly more and more upon the City, and not con<g ref="char:EOLhyphen"/>tented with what he he had Uſurped under the Title of Homage, he de<g ref="char:EOLhyphen"/>manded to be reinburſed of the expen<g ref="char:EOLhyphen"/>ces he had been at in the Wars. Hence many new quarrels aroſe, which laſted until the Counts of the <hi>Geneveſe</hi> were extinct, of whom the laſt was the Antipope <hi>Clement</hi> the ſeventh: To them the Dukes of <hi>Savoy,</hi> with con<g ref="char:EOLhyphen"/>ſent of the Biſhop, ſucceeded as Heires, but <hi>Amadeus</hi> Prince of <hi>Savoy</hi> diſdaining to be under the Juriſdiction of a Biſhop, procured of the Emporour the Vicar<g ref="char:EOLhyphen"/>ſhip of the Empire within all his own Territories, thereby pretending that as Vicar of the Empire, the Biſhop in all his Juriſdictions ought to be ſubject to him, but the Biſhop protected by the Pope made vigorus reſiſtance, and threatned to Excommunicate the Duke, as often, as he ſhould pretend to revive any ſuch pretentions, wherefore the Duke that he might not Embroil him ſelf with the Court of <hi>Rome,</hi> let fall his great pretentions, expecting a more favourable time to raiſe them again,
+<pb n="26" facs="tcp:93055:17"/>and ſo the Biſhop remained in peace<g ref="char:EOLhyphen"/>able poſſeſſion of his Authority, and the people of their antient liberty.</p>
+            <p>Afterwards in the year, 1418. Pope <hi>Martin</hi> the fifth paſſing through <hi>Savoy</hi> was in all places entertained by the Duke regnant at great expences, and with the higheſt Demonſtrations of honour, the Pope to gratifie him, of his own free motion, conferred on him the Temporal Juriſdiction over the City of <hi>Geneva,</hi> but neither the Biſhop, or people for all that, even ſuffered the Duke to enjoy that Pontifical priviledge and conceſſion.</p>
+            <p>In the year, 1536 about the begin<g ref="char:EOLhyphen"/>ing of <hi>September, John Calvin</hi> of <hi>Noion</hi> in <hi>Picardy,</hi>
+               <note place="margin">The com<g ref="char:EOLhyphen"/>ing of Cal<g ref="char:EOLhyphen"/>vin to <hi>Ge<g ref="char:EOLhyphen"/>neva.</hi>
+               </note> a learned man came to <hi>Geneva</hi> and joyning with <hi>Farrel,</hi> who already preached up the reformed Re<g ref="char:EOLhyphen"/>ligion in that City, they together inſti<g ref="char:EOLhyphen"/>tuted many Eccleſiaſtick ordinances, and ſetled a lecture in <hi>Theology.</hi>
+            </p>
+            <p>Cardinal <hi>Sadoleto</hi> a perſon eminent for learning and integrity of life,<note place="margin">
+                  <hi>Cardinal</hi> Sadoleto.</note> hear<g ref="char:EOLhyphen"/>ing of the ſeparation of <hi>Geneva</hi> from the <hi>Roman</hi> Church, wrote a moſt courte<g ref="char:EOLhyphen"/>ous and hortatory Letter to the Senate, promiſing them in the Popes name a
+<pb n="27" facs="tcp:93055:17"/>pardon for what was paſt, offering himſelf to be their mediator, for re<g ref="char:EOLhyphen"/>conciling them againe to the Church, but the minds of the people being diſ<g ref="char:EOLhyphen"/>poſed to the contrary, that Letter had no effect.</p>
+            <p>
+               <note place="margin">The Ban<g ref="char:EOLhyphen"/>iſhment of <hi>Calvin</hi> and <hi>Farrel.</hi>
+               </note>In the year, 1528. <hi>Calvin</hi> and <hi>Far<g ref="char:EOLhyphen"/>rel</hi> were baniſhed <hi>Geneva,</hi> by order of the Council of the two hundered, be<g ref="char:EOLhyphen"/>cauſe they had ſaid openly that they could not Adminiſter the Sacrament of the Lords ſupper, to looſe and diſſolute people, and indeed they actually refuſed upon an <hi>Eaſter</hi> day to give the Sacra<g ref="char:EOLhyphen"/>ment to ſome Scandalous and lewd per<g ref="char:EOLhyphen"/>ſons, whereupon the Council of the two hundred being next day aſſembled, thoſe two men were ſentenced to be Baniſhed, and preſently departed.</p>
+            <p>The Syndicks who were the con<g ref="char:EOLhyphen"/>trivers of that Baniſhment were utterly ruined two years after; one of them that told <hi>Calvin</hi> the gates were made wide enough to march out at, burſt in a narrow window, through which he attempted to eſcape out of priſon; another was beheaded, but the reſt fled, and ſo ſaved their lives.</p>
+            <p>The year, 1540.<note place="margin">Charles <hi>V.</hi>
+               </note> The Emperour
+<pb n="28" facs="tcp:93055:18"/>
+               <hi>Charles</hi> the fifth by expreſs Letters com<g ref="char:EOLhyphen"/>manded thoſe of <hi>Geneva</hi> not to Swear Allegiance to any whoſoever, declaring that for the future, they ſhould contin<g ref="char:EOLhyphen"/>ue under the obedience of the Emper<g ref="char:EOLhyphen"/>our, and enjoy the priviledges which other Imperial Cities and they them<g ref="char:EOLhyphen"/>ſelves had allready in times paſt enjoy<g ref="char:EOLhyphen"/>ed.</p>
+            <p>
+               <note place="margin">Calvin <hi>re<g ref="char:EOLhyphen"/>turnes to</hi> Geneva.</note>The Edict of 1538, for Baniſhing of the Miniſters was in the years, 1541 in a general Council revoked, and by expreſs Letters they were recalled, ſo that on the third of <hi>September,</hi> 1541 <hi>Calvin</hi> returned to <hi>Geneva,</hi> about which time by his advice the firſt Eccleſiaſtick Laws were eſtabliſhed in that Church, the Supremacy in Spirituals as well as Temporals, being by a General de<g ref="char:EOLhyphen"/>claration aſſerted to belong ſolely to the Senate.</p>
+            <p>
+               <note place="margin">Calvin <hi>dies.</hi>
+               </note>
+               <hi>Calvin</hi> lived the remaining part of his life in great eſteem and tranquillity in <hi>Geneva,</hi> and to the extraordinary grief of the people died the 24 of <hi>May</hi> 1564, aged fifty four years, ten Months and ſix days, his body was interred in the burying place of the plaine Pallace, but ſince upon ſuſpicion that the <hi>Sa<g ref="char:EOLhyphen"/>voyards</hi>
+               <pb n="29" facs="tcp:93055:18"/>intended to dig up and inſult over his bones, they were removed and buried within the Cloyſter of St. <hi>Pe<g ref="char:EOLhyphen"/>ters</hi> Church.</p>
+            <p>The Government of <hi>Geneva</hi> was at firſt wholy democratical,<note place="margin">Govern<g ref="char:EOLhyphen"/>ment of <hi>Geneva.</hi>
+               </note> the people aſſembled in a general Council having the Supream power to diſpoſe of Pub<g ref="char:EOLhyphen"/>lick places by Election as of the Syn<g ref="char:EOLhyphen"/>dicks Lieutenant, Auditors, Treaſ<g ref="char:EOLhyphen"/>urer, Procurator general: And beſides of making peace and War, neverthe<g ref="char:EOLhyphen"/>leſs in the year 1607, The Council of two hundred alone concluded a peace, and at preſent all the power the people hath is of chuſing by moſt voices in their Councils, one of two that are preſented to them by the Council of two hundred, and none being ever preſented by them but perſons of chief note in the City; the Government ſeems now to have a great affinity with <hi>Ari<g ref="char:EOLhyphen"/>ſtocracy,</hi> none but the more Noble being admitted to the publick adminſtration of affairs.</p>
+            <p>The publick Officers are alwaies firſt elected in the Council of twenty five, and then confirmed by that of the two hundered, who have the Authority
+<pb n="30" facs="tcp:93055:19"/>to approve, or reject the Election: when the Council of two hundred re<g ref="char:EOLhyphen"/>jects a party propoſed, then the Coun<g ref="char:EOLhyphen"/>cil of twenty five returnes and makes a new Election, which is to be reiter<g ref="char:EOLhyphen"/>ated, as long as the choice is not con<g ref="char:EOLhyphen"/>firmed by the Council of two hun<g ref="char:EOLhyphen"/>dred, who at the ſame time that they reject any perſon propoſed, have the power to nominate another; but this is ſeldome put in practice; the manner of their Election is as followeth.</p>
+            <p>When a Lieutenant (for inſtance) is to be made,<note place="margin">Balloting.</note> two candidates are choſ<g ref="char:EOLhyphen"/>en by the Council of twenty five, and preſented to the Counſel of two hun<g ref="char:EOLhyphen"/>dred; in which all the kindred and relations, firſt of the one, and then of the other Candidate ſucceſſively to the utmoſt degree, are ordered to with<g ref="char:EOLhyphen"/>draw, this being done, they carefully ſift and examine the actions of the per<g ref="char:EOLhyphen"/>ſons propoſed, and ſuch as have any thing to object againſt them, ſpeak their minds freely, then every member of the Council puts into a Box a B, or an O, B, ſignifying bon or good, and the O, omitted or rejected. If their be more Bs found than Os, the party is ap<g ref="char:EOLhyphen"/>proved
+<pb n="31" facs="tcp:93055:19"/>but if more Os, the Council of twenty five propoſes an other, and ma<g ref="char:EOLhyphen"/>ny times the Council of two hundred rejects ten in one Election: Both being afterwards confirmed, they are pre<g ref="char:EOLhyphen"/>ſented to the people, and he who in their general Council has moſt voices, is legally elected.</p>
+            <p>In the opening of any Council or aſſembly for Election, there are alwaies two Oaths Adminſtred to the Mem<g ref="char:EOLhyphen"/>bers, one that they chuſe a fit perſon, and the other that they diſcover no<g ref="char:EOLhyphen"/>thing of what ſhall be ſpoken concern<g ref="char:EOLhyphen"/>ing the parties propoſed.</p>
+            <p>All Burgeſſes and Citizens paſt eighteen years of age are admitted into the General Council;<note place="margin">The Ge<g ref="char:EOLhyphen"/>neral Council.</note> which is ſome<g ref="char:EOLhyphen"/>times more, ſometimes leſs Numerous, according as the Members are at home, or willing to come.</p>
+            <p>
+               <note place="margin">The City Companies of the Militia.</note>The City is divided into ſeventeen companies, each of which has for Cap<g ref="char:EOLhyphen"/>tain a Lord of the Council of twenty five, with a Lieutenant, Enſigne and other officers who are commonly choſe from among the Burgeſſes and Citizens, yet a Burgeſſe tho he may be a Lieuete<g ref="char:EOLhyphen"/>nent, can never be an Enſigne.</p>
+            <pb n="32" facs="tcp:93055:20"/>
+            <p>
+               <note place="margin">The Com<g ref="char:EOLhyphen"/>panies of Trades.</note>Every Trade has a Company con<g ref="char:EOLhyphen"/>ſiſting of Members of the ſame profeſſi<g ref="char:EOLhyphen"/>on, which is Governed by a Lord of the Council of twenty five, and four aſ<g ref="char:EOLhyphen"/>ſiſtants of the ſame Trade.</p>
+            <p>
+               <note place="margin">The Electi<g ref="char:EOLhyphen"/>on of Ma<g ref="char:EOLhyphen"/>giſtrates.</note>The Magiſtrates are alwaies choſen by ſecret ſuffrages, ſome of whom con<g ref="char:EOLhyphen"/>tinue in place for life, and others for a certain time.</p>
+            <p>
+               <note place="margin">The Mem<g ref="char:EOLhyphen"/>bers of the Council of <hi>25.</hi>
+               </note>The Members of the Council of twenty five, who conſtitute the chief Court of the City, and carry properly the names of Counſelors, are choſen out of the Council of two hundred, that is the Council of twenty five pro<g ref="char:EOLhyphen"/>poſes two, and that of the two hunder<g ref="char:EOLhyphen"/>ed approves or rejects them, and if it happen that both are approved by the greater numbers of Bs, than Os, then they come to an Election by the Plura<g ref="char:EOLhyphen"/>lity of voices, in which Election the Kindred have a voice; though when Scrutiny is made with Bs, and Os, all remove even to the remoteſt degree of relation.</p>
+            <p>The members of the Council of two hundred are Elected ſolely by the Coun<g ref="char:EOLhyphen"/>cil of twenty five,<note place="margin">The Mem<g ref="char:EOLhyphen"/>bers of the Council of <hi>200.</hi>
+               </note> and muſt be twenty five years of Age compleate, as it is
+<pb n="33" facs="tcp:93055:20"/>ordered ſometime agoe, they continue in place for life, unleſs by the Council of twenty five, who in the beginning of every year try and cenſure their actions, they be turned out or ſuſpended for miſdemeanor.</p>
+            <p>In the beginning of every year the Council of two hundred, cenſure alſo the actions of the Council of twenty five; except of the four Syndicks, who with the Treaſurer are exempted from that cenſure.</p>
+            <p>The four Syndicks who are annual,<note place="margin">Syndicks.</note> are choſen by the general Council of the people, by the general Council of the people, and are commonly taken out of the Council of twenty five, one of them carries the title of firſt Syn<g ref="char:EOLhyphen"/>dick, and he that hath once been a Syndick, in four years time returnes moſt commonly to the ſame place a<g ref="char:EOLhyphen"/>gain.</p>
+            <p>
+               <note place="margin">Lieutenant and Audi<g ref="char:EOLhyphen"/>tors.</note>The Lieutenant who adminiſters juſtice has ſix Auditors for aſſiſtance, all choſen by the general Council of the people, the Lieutenant for one year, and the Auditors for three, of whom two are yearly choſen, and two go out, theſe Auditors are not elected out of the number of twenty five, but of
+<pb n="34" facs="tcp:93055:21"/>that of the two hundred.</p>
+            <p>
+               <note place="margin">Procurator general.</note>The Procurator general is likewiſe taken out of the Council of the two hundred, and choſen by the people for three years; but is commonly con<g ref="char:EOLhyphen"/>firmed again for three years more, his Office is to take care of the obſervati<g ref="char:EOLhyphen"/>on of the Lawes, and preſervation of privilidges.</p>
+            <p>The Treaſurer is alwaies one of the Council of twenty five,<note place="margin">Treaſurer.</note> who is to give an account of the revenues and diſ<g ref="char:EOLhyphen"/>burſments of the Republick; he is e<g ref="char:EOLhyphen"/>lected by the general Council of the people, continues three years in place, and moſt commonly goes not out be<g ref="char:EOLhyphen"/>fore he be choſen Syndick.</p>
+            <p>
+               <note place="margin">Secretaries of State.</note>There are two Secretaries of State choſen by the Council of the two hun<g ref="char:EOLhyphen"/>dred out of that of twenty five, they continue in place during pleaſure, but commonly until they be choſen Syn<g ref="char:EOLhyphen"/>dicks, they ſit uncovered, and write all the acts of the Council.</p>
+            <p>
+               <note place="margin">City Mar<g ref="char:EOLhyphen"/>ſhal.</note>The Office of City Marſhal is very conſiderable, tho he be as in other places but Captain of the Town Of<g ref="char:EOLhyphen"/>ficers. This place is conferred upon one of the body of the two hundred,
+<pb n="35" facs="tcp:93055:21"/>but he is admitted into the Council of twenty five, and hears all that paſ<g ref="char:EOLhyphen"/>ſes there; he has no voice, but only expects their orders; he ſits uncovered on a bench by the door. Two are nam<g ref="char:EOLhyphen"/>ed to the place by the Council of twen<g ref="char:EOLhyphen"/>ty five, but the election belongs to that of the two hundred; he continues commonly in place for ſix years, and is not allowed to appear in publick without a ſtaff in his hand with a Syl<g ref="char:EOLhyphen"/>ver ball which belongs to the State. When the Senate makes a preſent of Wine or any thing elſe to Strangers of Quality, it is his part to make the Compliment,</p>
+            <p>
+               <note place="margin">The Houſe of the Secre<g ref="char:EOLhyphen"/>taries and City Mar<g ref="char:EOLhyphen"/>ſhals pub<g ref="char:EOLhyphen"/>lick feaſts.</note>In the Town Houſe of the City none live but the two Secretaries of State and the City Marſhal, to whom it belongs to order the publick feaſts in the times of Election, and to treate ſuch, as the Senate thinks fit to ap<g ref="char:EOLhyphen"/>point.</p>
+            <p>At the Election of the Magiſtrates, that is of the Syndicks, Lieutenant, Auditors, members of the Council of twenty five and other greater Officers, the Council of twenty five Dine in the Town Hall at the charge of him who
+<pb n="36" facs="tcp:93055:22"/>is new elected, but becauſe the electi<g ref="char:EOLhyphen"/>on of the Lieutenant and Auditors is all waies on the ſame day, the two Auditors are at the charge of the din<g ref="char:EOLhyphen"/>er, and the Lieutenant eates Scot-free.</p>
+            <p>There are in the State of <hi>Geneva</hi> four Caſtellains who Adminiſter Juſt<g ref="char:EOLhyphen"/>ice to the people in the Country,<note place="margin">Caſtellains.</note> and are Members of the Council of the two hundred and by them elected, af<g ref="char:EOLhyphen"/>ter that they are nominated by the Council of twenty five, as all other of<g ref="char:EOLhyphen"/>ficers are; every one of theſe Caſtell<g ref="char:EOLhyphen"/>ains continues in place three years, hav<g ref="char:EOLhyphen"/>ing under him onely a Clerk, and Of<g ref="char:EOLhyphen"/>ficers, and once a week, or oftener if need be, goes to Adminſter Juſtice in the place of his Juriſdiction.</p>
+            <p>
+               <note place="margin">Publick Gramnarie.</note>To the publick Granarie, which is one of the firſt things that is to be ſeen in <hi>Geneva,</hi> and of great advantage both to the State and people, belong eight Governours with a Receiver, and Syn<g ref="char:EOLhyphen"/>dick, who are intruſted with the man<g ref="char:EOLhyphen"/>agement thereof. Theſe Governors, (except the Syndick) are indifferently choſen from among the Cittizens, Burgeſſes and Inhabitants, or inmatess,
+<pb n="37" facs="tcp:93055:22"/>and meet on occaſion upon notice given them by the Syndick, who is their Preſident, they are all elected by the Council of twenty five, and confirmed by that of the two hundred; in ſe<g ref="char:EOLhyphen"/>veral ſtore houſes of this Granary are commonly kept one hundred thouſand Sacks of Corne, each ſack weighing an hundred and fifty pounds weight at twelve ounces to the pound, and above twenty thouſand ſacks are yearly bought and ſold here. The Bakers are ob<g ref="char:EOLhyphen"/>liged to buy their Corn out of this Granary at the rate of 24 Solz dear<g ref="char:EOLhyphen"/>er then it is ſold in the Market, and the Inkeepers, Vintners, and other pub<g ref="char:EOLhyphen"/>lick Houſe keepers are bound to buy their bread from thoſe Bakers, ſo that by this meanes the City raiſeth a con<g ref="char:EOLhyphen"/>ſiderable profit without burdenning their Subjects; ſuch as put money in<g ref="char:EOLhyphen"/>to that Chamber have formerly had ſeaven, or eight <hi>per cent,</hi> but at pre<g ref="char:EOLhyphen"/>ſent that the Chamber is not neceſſi<g ref="char:EOLhyphen"/>tated to borrow money, they allow no more then three, or at moſt four <hi>per cent.</hi>
+            </p>
+            <p>
+               <note place="margin">The forces of the City.</note>There are nine Companies of foot appointed for the conſtant Guard of
+<pb n="38" facs="tcp:93055:23"/>the City, the Captains who are choſen by the Council of twenty five, and con<g ref="char:EOLhyphen"/>firmed by that of the two hundred, enjoy their places for life, ſome of them are of the body of the two hundred, and ſome not, according as they have friends and Intereſt. A Burgeſs may be a Captain, when other Offices re<g ref="char:EOLhyphen"/>quire a Citizen. The Companies con<g ref="char:EOLhyphen"/>ſiſt of thirty Soldiers a peace not reck<g ref="char:EOLhyphen"/>oning inferiour Officers, to wit, Ser<g ref="char:EOLhyphen"/>jants and Corporals, and are all punct<g ref="char:EOLhyphen"/>ually paid once a month. Every Cap. has an hundred French Crowns and ſomewhat more a year, a Serjeant a<g ref="char:EOLhyphen"/>bout forty five, a Corporal ſomewhat leſs, and every private Soldier ſome<g ref="char:EOLhyphen"/>what more then two Crowns a month: There are three Gates in the City, and at each gate a Captain with his Com<g ref="char:EOLhyphen"/>pany keeps conſtant guard; more<g ref="char:EOLhyphen"/>over every evening four are choſen out of thoſe Companies that are not upon duty at the gates to go the round without and within the City; one of which Companies mounts the guard every night in the Town Hall.</p>
+            <p>
+               <note place="margin">The Muſt<g ref="char:EOLhyphen"/>er of the Companies.</note>The penult and laſt day of every month the nine Companies three at a
+<pb n="39" facs="tcp:93055:23"/>time are muſtered in preſence of the Syndick of the Guards (who is for moſt part the fourth Syndick) and of the two Majors, and at the ſame time receive their pay.</p>
+            <p>The Majors are members of the Council of twenty five,<note place="margin">Majors.</note> and common<g ref="char:EOLhyphen"/>ly the two youngeſt are choſen. It is really a place of great fatigue; for they are obliged by turns once a week, to releive the Guards every evening, and to go the rounds twice a night about the City to viſit the Sentinels; they are allowed indeed to diſcharge their Office on horſe back, being attended by ſome Soldiers and a Lantern: And certainly ſince the <hi>Scalado</hi> and ſur<g ref="char:EOLhyphen"/>prize that the Duke of <hi>Savoy</hi> attempt<g ref="char:EOLhyphen"/>ed to have made on this place, there is no City in the world more vigilant, and that uſes greater diligence to pre<g ref="char:EOLhyphen"/>vent the like for the future; for four of the Council of the two hundred every week go the rounds nightly, both before and after the Majors rounds, and every hour of the night the Senti<g ref="char:EOLhyphen"/>nels are viſited, the Guards being al<g ref="char:EOLhyphen"/>waies doubled when there is any ſuſ<g ref="char:EOLhyphen"/>pition of danger.</p>
+            <pb n="40" facs="tcp:93055:24"/>
+            <p>
+               <note place="margin">Pomps and vain ſhows.</note>There is a Court eſtabliſhed here a gainſt Pomps and vain Shows conſiſt<g ref="char:EOLhyphen"/>ing of a Syndick as Preſident, the Procurator General, and four Depu<g ref="char:EOLhyphen"/>ties, who meet commonly on <hi>Monday</hi> after dinner.</p>
+            <p>
+               <note place="margin">The time when the Councils meet.</note>Twice a year the General Council of the People meets after morning Sermon in St. <hi>Peters</hi> Church, to wit, on the firſt <hi>Sunday</hi> of <hi>November,</hi> for the Election of the Lieutenant, and two Auditors, and the firſt <hi>Sunday</hi> of <hi>January,</hi> for the Election of the four Syndicks, Procurator General and Treaſurer.</p>
+            <p>
+               <note place="margin">The Coun<g ref="char:EOLhyphen"/>cil of <hi>25.</hi>
+               </note>The Council of twenty five ſits every morning, and on occaſion in the af<g ref="char:EOLhyphen"/>ternoon, excepting <hi>Sunday</hi> and <hi>Thurſ<g ref="char:EOLhyphen"/>day,</hi> when they never meet, unleſs matters of State, or other things of great importance require their atten<g ref="char:EOLhyphen"/>dance.</p>
+            <p>
+               <note place="margin">The Coun<g ref="char:EOLhyphen"/>cil of <hi>200.</hi>
+               </note>The Council of the two hundred meet the firſt <hi>Friday</hi> morning of every month after that the Council of 25 is up, for treating of matters of State and affaires of publick benefit; but if other neceſſary matters do require, ac<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ding to exigency they meet oftner,
+<pb n="41" facs="tcp:93055:24"/>and becauſe many Civil matters are tranſferred from the Council of twenty five to that of the two hundred, they aſſemble ſometimes three days a weak for the deciſion of ſuch actions.</p>
+            <p>There is no appeal to be made to the Council of the two hundred in any action under fifty Crowns, the par<g ref="char:EOLhyphen"/>ties being obliged to depoſit twenty, and beſides alledge that the ſentence given by the twenty five is againſt the Edict which is the Municipal Law of <hi>Geneva.</hi>
+            </p>
+            <p>
+               <note place="margin">The Coun<g ref="char:EOLhyphen"/>cil of threeſcore.</note>There is moreover a Council of ſixty, the Members whereof are choſen out of the body of the two hundred, and are men of mature judgment, and ſuch as have born the charge of an Au<g ref="char:EOLhyphen"/>ditor, but this Council ſeldome meets and only upon matters of State: You muſt obſerve that the Members of the Council of twenty five, ſit in all other Councils, whether of the General, that of the 200, or of the ſixty.</p>
+            <p>The Lieutenant aſſiſted by his ſix Auditors holds a Court daily,<note place="margin">Lieuten<g ref="char:EOLhyphen"/>ant.</note> and tho all be not preſent, yet it is ſtill a Court, the firſt Auditor in abſence of the Lieu<g ref="char:EOLhyphen"/>tenant being Preſident thereof.</p>
+            <pb n="42" facs="tcp:93055:25"/>
+            <p>In the Court which is called the Court of Appeals a Syndick is Preſi<g ref="char:EOLhyphen"/>dent,<note place="margin">Appeals.</note> and it is compoſed of five Judges or Counſellors, who are Members of the two hundred and continue in place for three years. They are to meet once a week according as cauſes happen; for from the ſentence of the Lieuten<g ref="char:EOLhyphen"/>ant they remove to this Court of Ap<g ref="char:EOLhyphen"/>peals, and from <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Council of twenty five.</p>
+            <p>When an action whether Civil or Criminal is to be decided in the Coun<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap> twenty five; all the Kindred and Relations of the Parties withdraw, ſo that to fill up the <hi>Quorum</hi> of that Court, as of the other of Appeals, they take Aſſeſſors out of the number of the two hundred, who ſit not on the bench, but on certain ſeats provided for them in the middle of the Hall: but if the number of the Judges not excepted againſt, exceed the half, the Court is compleat and no Aſſeſſors are called.</p>
+            <p>
+               <note place="margin">The Con<g ref="char:EOLhyphen"/>gregation of the Mi<g ref="char:EOLhyphen"/>niſters.</note>The Congregation of Eccleſiaſticks, that is, of the Miniſters who Preach the Goſpel, conſiſts of twenty four Church-men, that is of twelve Mini<g ref="char:EOLhyphen"/>ſters of the City, and as many of the
+<pb n="43" facs="tcp:93055:25"/>Country about, which belongs to the Soverainity of <hi>Geneva.</hi>
+            </p>
+            <p>Every <hi>Friday</hi> Morning this Aſſemb<g ref="char:EOLhyphen"/>ly meets to treat of the affaires of their Miniſtery, and the Purity of Religion, thô upon urgent occaſions they meet at other times: not only all the Miniſters but likewiſe the Profeſſors are admit<g ref="char:EOLhyphen"/>ted into this Congregation, the truth is, the profeſſors of Theology, Greek, and Hebrew are commonly Miniſters, and tho thoſe of Philoſophy be not, yet they have place in the Congre<g ref="char:EOLhyphen"/>gation.</p>
+            <p>
+               <note place="margin">The Conſi<g ref="char:EOLhyphen"/>ſtory.</note>The Conſiſtory which is held every <hi>Thurſday,</hi> is compoſed of all the Mi<g ref="char:EOLhyphen"/>niſters, and nine other perſons of ex<g ref="char:EOLhyphen"/>emplary life and Mature age, whom they call Elders; two of which are commonly members of the Council of twenty five. A Miniſter with the title of Moderator is Preſident of the Conſiſtory, who is changed weekly, but the twelve Country Miniſters are never admitted to be Moderators.</p>
+            <p>The <hi>Italians</hi> and <hi>Germans</hi> have like<g ref="char:EOLhyphen"/>wiſe their Conſiſtories, compoſed of their Miniſters, and ſome Elders, who meet commonly after Sermon, and
+<pb n="44" facs="tcp:93055:26"/>treat of the affairs of their ſeveral Churches, but they depend on the greater Conſiſtory.</p>
+            <p>There is a kind of Hoſpital common<g ref="char:EOLhyphen"/>ly called the <hi>French-Box,</hi>
+               <note place="margin">The French Box.</note> which takes care to releive all the poor Families of ſtrangers, for none are received into the great Hoſpital, but onely Burgeſſes, Citizens, and poor Travellers with<g ref="char:EOLhyphen"/>out any reſpect to their Religion or Country.</p>
+            <p>
+               <note place="margin">The Itali<g ref="char:EOLhyphen"/>an and German Boxes.</note>The Poor Families of the <hi>Italian</hi> Na<g ref="char:EOLhyphen"/>tion are releived out of the Box of the <hi>Italian</hi> Conſiſtory, and the <hi>Germans</hi> out of the <hi>German-Box.</hi>
+            </p>
+            <p>
+               <note place="margin">Admini<g ref="char:EOLhyphen"/>ſtration of the Holy Sacrament of the Lords Sup<g ref="char:EOLhyphen"/>per.</note>The Sacrament of the Lords Sup<g ref="char:EOLhyphen"/>per is Adminiſtred to the People four times a year, to wit, at <hi>Eaſter, Whit<g ref="char:EOLhyphen"/>ſuntide,</hi> in the beginning of <hi>September,</hi> and at <hi>Chriſtmaſs,</hi> but alwaies on a <hi>Sunday,</hi> and that twice in every Church with great concourſe of Communicants. The <hi>Italians</hi> likewiſe and <hi>Germans</hi> receive four times a year in their ſever<g ref="char:EOLhyphen"/>veral Churches; ſo that the Sacrament is adminiſtred twelve times a year in <hi>Geneva,</hi> that is once a Month, a thing moſt convenient for Travellers and the ſick.</p>
+            <pb n="45" facs="tcp:93055:26"/>
+            <p>The <hi>Italian</hi> Church is much antien<g ref="char:EOLhyphen"/>er than that of the <hi>Germans.</hi> Hereto<g ref="char:EOLhyphen"/>fore the <hi>Spaniards</hi> had a Church, but for want of people of that Nation it is now loſt.</p>
+            <p>
+               <note place="margin">The Col<g ref="char:EOLhyphen"/>ledge.</note>The Colledge for Letters is conſti<g ref="char:EOLhyphen"/>tuted of a Rector who is a Miniſter, ſeaven Profeſſours, to wit, three of Theology, one of Hebrew, another of Greek, and two of Philoſophy: There is moreover a Principal, who is a Mini<g ref="char:EOLhyphen"/>ſter alſo ſet over the Regents of the Schools, where the youths ſtudy hu<g ref="char:EOLhyphen"/>manity; a libruy keeper, who has the charge of the publick library, and three Senators of the Council of twenty five, whom they call commonly the Go<g ref="char:EOLhyphen"/>vernours of the Schools.</p>
+            <p>
+               <note place="margin">The elect<g ref="char:EOLhyphen"/>ion of Mi<g ref="char:EOLhyphen"/>niſters.</note>When a Miniſter is to be choſen for the City or Country, the Congrega<g ref="char:EOLhyphen"/>tion by ſecret voices makes the Electi<g ref="char:EOLhyphen"/>on, and then propoſes the perſon e<g ref="char:EOLhyphen"/>lected to the Council of twenty five, who have the abſolute power of admit<g ref="char:EOLhyphen"/>ting or rejecting him: If the party be rejected, the Miniſters proceed to a new Election until they pleaſe the hu<g ref="char:EOLhyphen"/>mor of the Council: The ſame method is obſerved in chooſing of Profeſſors;
+<pb n="46" facs="tcp:93055:27"/>but for the Regents of the Schools, it is ſufficient that they be examined by the body of the Colledge, and then with their recommendation preſented to the body of the twenty five.</p>
+            <p>There are in <hi>Geneva</hi> many Students called Propoſants, as well Natives, as of other Countries, as <hi>French, Ger<g ref="char:EOLhyphen"/>mans, Switzers, Hollanders</hi> and others. Theſe Students are employed week<g ref="char:EOLhyphen"/>ly to ſay Prayers every Evening in three Churches, to wit, St. <hi>Peters,</hi> St. <hi>Gervaſe's,</hi> and St. <hi>Magdalens,</hi> and be<g ref="char:EOLhyphen"/>ſides to read in the Pulpit ſome Chap<g ref="char:EOLhyphen"/>ter of the bible every Morning and E<g ref="char:EOLhyphen"/>vening, between the firſt and laſt ring<g ref="char:EOLhyphen"/>ing into Church.</p>
+            <p>When any of theſe Miniſters are to be ordained,<note place="margin">Ordination of Mini<g ref="char:EOLhyphen"/>ſters.</note> that is when they are to receive Authority to Preach and Admi<g ref="char:EOLhyphen"/>niſter the Sacraments, they are exa<g ref="char:EOLhyphen"/>mined by the Miniſters in the Congre<g ref="char:EOLhyphen"/>gation, and afterwards without any Ce<g ref="char:EOLhyphen"/>remony they receive their Authority, the Council of twenty five not med<g ref="char:EOLhyphen"/>ling in that, but leaveing the whole care thereof to the Miniſters.</p>
+            <p>
+               <note place="margin">The Preſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note>There are many Preſſes in <hi>Geneva,</hi> which ought weekly to be viſited by the
+<pb n="47" facs="tcp:93055:27"/>Rector; but to ſpeak truth both that and Licenſing of Bookes by the Rect<g ref="char:EOLhyphen"/>ors and Governors of Schools with<g ref="char:EOLhyphen"/>out which they ſhould not be Printed, for moſt part are neglected.</p>
+            <p>
+               <note place="margin">The Salary of the Mini<g ref="char:EOLhyphen"/>ſters and Profeſſors. Adulterie.</note>The Salary of the Miniſters of the City exceedeth not the ſum of two hundred Crowns a year.</p>
+            <p>About fifty or threeſcore years agoe the Crime of Adultery was without any reſpect of perſons puniſhed with death, but that rigour is at preſent re<g ref="char:EOLhyphen"/>mitted; the puniſhment being now ſome months Impriſonment, and a pecuniary fine, but the poor that have not mony are puniſhed Corporally.</p>
+            <p>Simple Fornication is alſo puniſhed according to the quality of the offence, the delinquent being confined to priſon for nine dayes to eate nothing but Bread and Water, none are exempted but muſt preſent themſelves before the Conſiſtory.</p>
+            <p>
+               <note place="margin">The courſe that is ta<g ref="char:EOLhyphen"/>ken in time of fire.</note>There can no where better courſes be taken in time of fire than in <hi>Gene<g ref="char:EOLhyphen"/>va,</hi> for all the men upon the firſt al<g ref="char:EOLhyphen"/>larme are obliged in their armes to be<g ref="char:EOLhyphen"/>take themſelves to the ſeveral quarters appointed them, and the ſerving Maids
+<pb n="48" facs="tcp:93055:28"/>with their Buckets to carry water, e<g ref="char:EOLhyphen"/>very houſe keeper being bound to ſend his Maid; Maſons Carpenters and the like are obliged to goe and carry their Inſtruments and tooles with them to the place where the fire is, and the Members of the Council of twenty five repair to the Town Hall, there to give the neceſſary orders.</p>
+            <p>The Lieutenant with his Staff of Juſtice, two Auditors, and the Syn<g ref="char:EOLhyphen"/>dick of the Guards with his Staff, and another Syndick all accompani<g ref="char:EOLhyphen"/>ed with a conſiderable number of Of<g ref="char:EOLhyphen"/>ficers go to the place where the fire is, and there give all orders neceſſary, e<g ref="char:EOLhyphen"/>very one being obliged exactly to o<g ref="char:EOLhyphen"/>bey them and to pull down what Con<g ref="char:EOLhyphen"/>tiguous Houſes they ſhall think moſt convenient for quenching the fire; the two Auditors take into their Cuſto<g ref="char:EOLhyphen"/>dy all the goods they can, which they tranſport to prevent theft and robbery; and in a late fire a Burgeſs was hang<g ref="char:EOLhyphen"/>ed for ſtealing ſome ſmall trifle whilſt the people were in confuſion.</p>
+            <p>The Guards of the Gates are doub<g ref="char:EOLhyphen"/>led with a Company of Souldiers more than ordinary, and in the day time
+<pb n="49" facs="tcp:93055:28"/>when the Gates are open, ſo ſoon as they crie fire fire, they are ſhut and not opened again until the fire be quite out, the two Majors on Horſe back continually ſurrounding the City and viſiting the poſts, and in a word no care and diligence is omitted.</p>
+            <p>
+               <note place="margin">Tryals of priſoners diſpatched.</note>The Tryals of Priſoners are no where diſpatched with greater expe<g ref="char:EOLhyphen"/>dition then in <hi>Geneva,</hi> where they are not ſuffred, as in other places, to lan<g ref="char:EOLhyphen"/>guiſh in a priſon.</p>
+            <p>The Gaoler is one of the Council of the two hundred,<note place="margin">Gaoler.</note> who diſcharges that office only for a year, but ſeeing it is a place of no great profit, there are not many that ſeek after it.</p>
+            <p>Priſoners are commonly brought to Tryal at the ſuit of the Lieutenant and Procurator General before one of the Council of twenty five,<note place="margin">Trials.</note> who meet alwaies in a Room of the Priſon appointed for that purpoſe, where they examin the Priſoner, who every time that the Council go to examin him, is obliged to pay them eighty Florins, which is about three Crowns, but ſuch as are condemned to death, and have not wherewithal, are exempted from
+<pb n="50" facs="tcp:93055:29"/>payment, no man being bound to do a thing impoſſible. Malefactors are not tortured here ſo much, as in other places, and they never give the rack of<g ref="char:EOLhyphen"/>tener then twice.</p>
+            <p>The Tryal ended,<note place="margin">Sentence.</note> the Members of the Council of twenty five having firſt prayed to God on their knees, give Sentence, from which the Citizens and Burgeſſes, as ſoon as it is intimated to them, appeale to the Council of the two hundred.</p>
+            <p>
+               <note place="margin">Execution of the Sen<g ref="char:EOLhyphen"/>tence.</note>After that Sentence of death has paſt, it is next day an hour before Sun<g ref="char:EOLhyphen"/>riſing intimated to the priſoner by two Miniſters, and from that time till ten of the Clock before noon, he is conſtantly attended by two of them, who are relieved every hour, and who make it their buſineſs to prepare him for Death, the Priſoner, all that while being in the ſame Roome where the Council of twenty five ſits, when they examine any Malefactor, and where he receives the intimation of his Sen<g ref="char:EOLhyphen"/>tence, and continues till he be carried to the place of Execution.</p>
+            <p>
+               <note place="margin">Time of Execution.</note>At ten of the Clock then in the fore<g ref="char:EOLunhyphen"/>noon the Council of twenty five aſ<g ref="char:EOLunhyphen"/>ſembles
+<pb n="51" facs="tcp:93055:29"/>before the Gate of the Town Hall where ſtands a ſeat of Juſtice, on which ſit the four Syndicks with their ſtaves of Juſtice in hand, the Counſellors ſitting on each ſide of the bench, but lower than the Syndicks, the Priſoner aſſiſted ſtill by two Mi<g ref="char:EOLhyphen"/>niſters, is brought before them by an Auditor (repreſenting the Lieuten<g ref="char:EOLhyphen"/>ant) and the City Marſhal with his Officers, where kneeling alone before the bench, a Clerk with an Audible Voice reads to him all the Crimes he is guilty of, which being confeſſed by himſelf, the Sentence then read, the City Marſhal holding all this while an open Bible in his hand before the Court, becauſe before the Clarke be<g ref="char:EOLhyphen"/>gins to read the Sentence he pro<g ref="char:EOLhyphen"/>nounces theſe words aloud, haveing before our eyes, God and his holy Scripture. The Sentence being read, the Priſoner is inſtantly delivered over into the hands of the Officers of the Lieutenant, to whom the execution of Juſtice belongs, but the Sentence muſt be immediatly executed, and therefore the Executioner appears, who taking the Priſoner by the hand,
+<pb n="52" facs="tcp:93055:30"/>leads him into a low room, where hav<g ref="char:EOLhyphen"/>ing put the Halter about his neck and bound him, an Auditor and the City Marſhal on Horſeback, with the Of<g ref="char:EOLhyphen"/>ficers and Executioner on foot, bring him to the place of Execution, and ſtirr not from thence till the Malefactor be dead.</p>
+            <p>
+               <note place="margin">Place of Execution.</note>Ordinarily perſons are put to death in the plain Palace without the City, and in the place of <hi>Molard.</hi>
+            </p>
+            <p>
+               <hi>Geneva</hi> has at ſeveral times contract<g ref="char:EOLhyphen"/>ed alliances,<note place="margin">Alliances.</note> both in the times of the Biſhops and ſince, and that with ſe<g ref="char:EOLhyphen"/>veral Princes, and Republicks, parti<g ref="char:EOLhyphen"/>culary with the Common-wealth of <hi>Venice,</hi> with which until this day they entertain a very good coreſpondence, in ſo much that they willingly ſuffer their Captaines to levy men amongſt them.</p>
+            <p>In the year 1518.<note place="margin">1518.1526.</note> The <hi>Genevians</hi> made a League with the <hi>Canton</hi> of <hi>Fribourg,</hi> which in the year, 1526. Was confirmed with cloſer obligations of Friendſhip and enlarged with new Articles; The <hi>Canton</hi> of <hi>Berne</hi> with that of <hi>Fribourg,</hi> being therein com<g ref="char:EOLhyphen"/>prehended, and all three together ob<g ref="char:EOLhyphen"/>liged
+<pb n="53" facs="tcp:93055:30"/>in a perpetual, and individual League with one another.</p>
+            <p>The reformed Religion being af<g ref="char:EOLhyphen"/>terwards in the year, 1535.<note place="margin">1535.</note> Eſtabliſh<g ref="char:EOLhyphen"/>ed in <hi>Geneva,</hi> the States of <hi>Fribourg</hi> moved by their Church men, ſent Ambaſſadors to <hi>Geneva,</hi> declaring that if they would not returne into the bo<g ref="char:EOLhyphen"/>ſome of the Catholick Church they would be obliged to break the League, to theſe propoſitions the <hi>Genevians</hi> would not condeſcend, but proteſted they would faithfully obſerve the al<g ref="char:EOLhyphen"/>liance.</p>
+            <p>The year following which was 1536.<note place="margin">1536.</note> The States of <hi>Berne</hi> underſtand<g ref="char:EOLhyphen"/>ing that the <hi>Fribourgers</hi> had made a League with the <hi>Genevians,</hi> ſent Ambaſ<g ref="char:EOLhyphen"/>ſadors to <hi>Geneva,</hi> where a League for twenty five years was concluded be<g ref="char:EOLhyphen"/>twixt <hi>Geneva</hi> and <hi>Berne,</hi> this Legue ex<g ref="char:EOLhyphen"/>piring in the year, 1558. On the firſt of <hi>January</hi> of the ſame year a perpe<g ref="char:EOLhyphen"/>tual League was concluded betwixt theſe two States.</p>
+            <p>
+               <hi>May</hi> the 8th. 1559 <hi>Henry</hi> the third,<note place="margin">1559.</note> King of <hi>France</hi> and <hi>Poland</hi> made Al<g ref="char:EOLhyphen"/>liance with <hi>Berne, Solerne,</hi> and <hi>Geneva,</hi> in which treaty <hi>Geneva</hi> was by that
+<pb n="54" facs="tcp:93055:31"/>King called the key of <hi>Switzerland,</hi> and he alwaies eſteemed it ſo, having re<g ref="char:EOLhyphen"/>commended to the <hi>Switzers</hi> the pre<g ref="char:EOLhyphen"/>ſervation of that City.</p>
+            <p>Laſtly, on the eighteenth of <hi>October,</hi> 1584.<note place="margin">1584.</note> 
+               <hi>Zurich</hi> made a mutual League with <hi>Geneva,</hi> in memory whereof the Senate crected a Marble Monument with this inſcription, which is to be ſeen in the Hall of the Town houſe, on the ſide as you go to the Arſenal.</p>
+            <p>
+               <hi>Anno à vera religione divinitus cum vetere libertate</hi> Geneva <hi>reſtituta,</hi>
+               <note place="margin">Inſcription</note> 
+               <hi>quaſi novo Jubileo inennte, plurimis vitatis domi &amp; foris inſidijs &amp; ſup<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ratis tem<g ref="char:EOLhyphen"/>peſtatibus, quod Helvetiorum primari<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Tigurini Bernarum exemplo aequo jure &amp; in ſocietatem perpetuam nobiſcum venerint, &amp; prius novo vinculo adſtrinxerint,</hi> S. P. Q. G. <hi>quod faelix eſſe velit.</hi> D. O. M. <hi>tanti beneſicii Monumentum conſecra<g ref="char:EOLhyphen"/>runt.</hi>
+            </p>
+            <p>Beſides the above mentioned al<g ref="char:EOLhyphen"/>liances, <hi>Geneva</hi> holds friendſhip and cor<g ref="char:EOLhyphen"/>reſpondence upon account of the Pro<g ref="char:EOLhyphen"/>reſtant Religion, with the <hi>Engliſh. Hollanders,</hi> and Proteſtant Princes of <hi>Germany</hi> all which in time of need would do them ſen<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e good Offices,
+<pb n="55" facs="tcp:93055:31"/>but the truth is the Jealouſie that reignes amongſt neighbouring Princes, has a greater influence upon the preſer<g ref="char:EOLhyphen"/>vation of the Liberty of <hi>Geneva</hi> than any other conſideration whatſoever.</p>
+            <p>
+               <note place="margin">Proteſt<g ref="char:EOLhyphen"/>ants of <hi>France.</hi>
+               </note>This City is looked upon as the only City of refuge, for the Proteſtants of <hi>France,</hi> ſeeing upon occaſion of any perſecution, they can retreat into this place, and that makes them on their part ſo ſolicitous for its ſafety and preſervation, that on all occaſions they would be ready to ſhew the ef<g ref="char:EOLhyphen"/>fects of their good inclinations towards it, as they have already done during the War with the Duke of <hi>Savoy,</hi> and it is certain that no ſooner would any new War begin in <hi>Geneva,</hi> but that the Proteſtants of the beſt quality in <hi>France</hi> would come to its aſſiſtance, knowing very well, that if they be de<g ref="char:EOLhyphen"/>prived of that Sanctuary, they muſt remaine expoſed to the will of their enemies.</p>
+            <p>As to the forces of <hi>Geneva,</hi> with<g ref="char:EOLhyphen"/>out doubt they are but inconſiderable,<note place="margin">Forces Arſenal.</note> they have in the firſt place an Arſenal provided of all ſorts of Armes for arm<g ref="char:EOLhyphen"/>ing of ſix thouſand men at leaſt; be<g ref="char:EOLhyphen"/>ſides
+<pb n="56" facs="tcp:93055:32"/>a great many old Armes and Colors taken from their enemies in the time of the War.</p>
+            <p>There is no great ſtore of Cannon in the Arſenal, becauſe this City being a Frontier place, has the Walls both day and night well furniſhed with great Gunns, and certainly there is no fron<g ref="char:EOLhyphen"/>tiere place better provided with Can<g ref="char:EOLhyphen"/>non.</p>
+            <p>
+               <note place="margin">Private Arms.</note>The private Houſes are ſufficiently, furniſhed with Armes, and there is no Citizen but hath Armes for two or three men, there are ſeveral that can Arme twenty five or thirty, and ſome are ſo well provided that they can conveni<g ref="char:EOLhyphen"/>ently Arme three hundred Soldiers, ſo that every private Houſe may be called an Arſenal, hence according to computation it is commonly reckoned that in <hi>Geneva</hi> there are Armes for for<g ref="char:EOLhyphen"/>ty thouſand men.</p>
+            <p>The City is alwaies well furniſhed with Proviſions and Ammunition of all ſorts conveniently diſtributed into Magazines and Store houſes in the ſe<g ref="char:EOLhyphen"/>veral quarters of the Town,<note place="margin">Proviſi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="3+ letters">
+                     <desc>•••…</desc>
+                  </gap>.</note> ſo that if an accident ſhould happen in the place, the City could ſuſtaine no great
+<pb n="57" facs="tcp:93055:32"/>prejudice thereby, the other ſtores be<g ref="char:EOLhyphen"/>ing ſufficiently provided to ſupply the loſs; they keep conſtantly Ammunition, as Powder, Bullets, Match and the like enough for a two years Siege, and a ſufficient quantity of Corne for three years, having Mills within the Town alwaies in readineſs to grind it.</p>
+            <p>
+               <note place="margin">Military exerciſes.</note>The <hi>Genevians</hi> are generally well trained in the exerciſes and diſcipline of Warr; and though they can brag of no famous Commanders (their wars having been more defenſive than offenſive) yet they have Soldiers of long experience in the wars, and take care to exerciſe their youth to Warlik exerciſes by conferring honor and reward on thoſe eſpecially who at ſome ſet times in the year obtaine the advantage of ſhooting.</p>
+            <p>
+               <note place="margin">Kings of the ſeveral kinds of Arms.</note>They preforme thoſe exerciſes chief<g ref="char:EOLhyphen"/>ly in the Spring, the fitteſt time for recreation, and to raiſe in their youth a generous emulation for Honor, they make him who hath ſhot beſt in the Cannon, Musket, Bow, Croſs-bow, or Piſtol, King of that kind of Armes wherein he hath excelled, giving him a mark of Honor and ſome priviledges
+<pb n="58" facs="tcp:93055:33"/>in reward of his dexterity: But the King of the Harquebuſes is in greateſt eſteem amongſt them, and beſides the Priviledges which are allowed him, he is after his Election attended home by the Chief of the City with ſhow and triumph. The publick reaps no ſmall benefit from thoſe delightful exerciſ<g ref="char:EOLhyphen"/>es, for the Citizens are thereby train<g ref="char:EOLhyphen"/>ed in the diſcipline of War, and by the Honor and priviledges conferred upon the Kings, encouraged to noble undertakings.</p>
+            <p>But though brave men, and good Arms be the ordinary means of the de<g ref="char:EOLhyphen"/>fence and preſervation of the City,<note place="margin">On what <hi>Geneva.</hi> builds its conſidence.</note> yet the <hi>Geneveans</hi> truſt not altogether to their own ſtrength; they are ſen<g ref="char:EOLhyphen"/>ſible enough of their weakneſs and inability to withſtand the deſignes of their powerful enemies, who are very induſtrious in contriving their ruine.</p>
+            <p>Their chief truſt therefore is in God, under whoſe protection they are to ſa<g ref="char:EOLhyphen"/>crifice their lives and fortunes in main<g ref="char:EOLhyphen"/>taining of their dearly beloved darling Liberty, as by experience they have already made appear. They can muſt<g ref="char:EOLhyphen"/>er of their own ſome thouſands of well
+<pb n="59" facs="tcp:93055:33"/>trained Soldiers, but in caſe of War, or Siege, the four Proteſtant, <hi>Cantons</hi> of <hi>Switzerland</hi> are obliged by mutual Articles to ſend them a ſupply of four thouſand men, and it being the com<g ref="char:EOLhyphen"/>mon maxim of States-men and skil<g ref="char:EOLhyphen"/>ful Souldiers that the preſervation of <hi>Geneva</hi> depends on the Friendſhip of <hi>Switzerland,</hi> and the Liberty of <hi>Swit<g ref="char:EOLhyphen"/>zerland</hi> on the ſafety of <hi>Geneva,</hi> the Ca<g ref="char:EOLhyphen"/>tholick Cantons themſelves for rea<g ref="char:EOLhyphen"/>ſons of State, and that they may not by loſing that barrier expoſe their Li<g ref="char:EOLhyphen"/>berty to the deſcretion of a Conquer<g ref="char:EOLhyphen"/>our, will in caſe of need, contribute both men and mony for the aſſiſtance of that place.</p>
+            <p>In the year, 1602. Experience confirmed this; for in the ſpace of few hours great ſupplies of men haſtened in time of danger to <hi>Geneva:</hi> And the <hi>Scalado</hi> hapned about midnight in the bittereſt time of Winter, yet next Evening about two thouſand men un<g ref="char:EOLhyphen"/>der ſeveral Commanders, came from the Neighbouring parts of <hi>Switzerland</hi> to the relief of the City, and about four thouſand more were upon the march thither, but the danger being over,
+<pb n="60" facs="tcp:93055:34"/>they were with thanks diſmiſſed. The Hiſtory of this enterprize deſerves ſome mention.</p>
+            <p>On <hi>Saturday</hi> night the twelfth of <hi>December,</hi>
+               <note place="margin">An ac<g ref="char:EOLhyphen"/>count of the <hi>Scala<g ref="char:EOLhyphen"/>do.</hi>
+               </note> 1602. About midnight, the Forces of <hi>Charles Emannel</hi> Duke of <hi>Savoy</hi> attacqued <hi>Geneva</hi> by <hi>Scalado</hi> in this manner.</p>
+            <p>The Signior <hi>D' Albigni</hi> the Dakes Licutenant (the Duke in perſon being come poſt to <hi>Champey</hi> a Village near to <hi>Geneva</hi>) with twelve hundred men, ad<g ref="char:EOLhyphen"/>vanced towards the wall of the City without any noiſe of Drum or Trum<g ref="char:EOLhyphen"/>pet, and an hour before midnight be<g ref="char:EOLhyphen"/>gan the <hi>Scalado,</hi> making uſe of three Ladders moſt artificially made, as may be ſeen at preſent in the Arſenal, one Father <hi>Alexander</hi> a <hi>Jeſuite</hi> ſtanding at the foot of the midle-moſt and encour<g ref="char:EOLhyphen"/>aging all the Soldiers with aſſurance of indulgence and pardon in name of the Pope, though the enterprize was at<g ref="char:EOLhyphen"/>tempted without the Popes knowledge. Two hundred and fifty were already got into the City before any perceiv<g ref="char:EOLhyphen"/>ed it; But God Almighty infatuated their Council, ſeeing they might as eaſi<g ref="char:EOLhyphen"/>ly have brought in above a thouſand;
+<pb n="61" facs="tcp:93055:34"/>and cut all the Citizens to peices; but by their own overſight, or unskilful<g ref="char:EOLhyphen"/>neſs they were diſcovered three hours before day by a Sentinel from the Tow<g ref="char:EOLhyphen"/>er of the Mint Houſe, the City taking thereupon the Allarm, the braveſt and moſt active Citizens two hours be<g ref="char:EOLhyphen"/>fore day put themſelves in Armes, and after ſome hot skirmiſhes and brisk fighting, about break of day obtained the Victory and beate out the enemy who had the ill luck that their Petarde, (notwithſtanding all their diligence) did no execution, ſeventeen of the Valienteſt Citizens were killed, and ten wounded in the action, the ene<g ref="char:EOLhyphen"/>mies had fifty four killed, and thirteen taken Priſoners, ſome of which were wounded by leaping over the walls, the City Canon having broken their Ladders; early next Morning the Coun<g ref="char:EOLhyphen"/>cil ſate to conſult what muſt be done with the thirteen Priſoners, and be<g ref="char:EOLhyphen"/>cauſe the people cried for Juſtice, they were all condemned to be hanged, though they were not perſons of the leaſt quality in <hi>Savoy,</hi> amongſt whom were the Barons of <hi>Sonaz, Attignac</hi> and <hi>Chaffardon.</hi> The Baron of <hi>Attig<g ref="char:EOLhyphen"/>nac</hi>
+               <pb n="62" facs="tcp:93055:35"/>having a broken Legg was carried to the Gallows in a chair, all of them pretended to be uſed as Priſoners of War, but the City told them they were traitors, peace breakers, and aſſaſſins, and uſed them accordingly, haveing on <hi>Sunday</hi> the thirteenth of <hi>December</hi> about noon cauſed them all to be hanged; The bodies of thoſe that were hanged, as well as of thoſe that were killed in the action, were pub<g ref="char:EOLhyphen"/>lickly expoſed until <hi>Tueſday</hi> the fif<g ref="char:EOLhyphen"/>teenth of the ſame month, and then their Heads to the number of ſixty ſeven cut off, and placed upon Poles, and their bodies caſt into the <hi>Rone,</hi> according to the Sentence pronounced by the Council of ſixty, who becauſe they themſelves had confeſſed that their orders were to kill men women and Children without diſtinction, and to caſt their bodies into the ſame Ri<g ref="char:EOLhyphen"/>ver, thought it juſt to do unto them, what they intended to have done to o<g ref="char:EOLhyphen"/>thers.</p>
+            <p>After this, the Peace being broken the <hi>Geneveans</hi> made ſeveral incurſions into <hi>Savoy,</hi> but in the Month of <hi>July</hi> following, by the Mediation of the
+<pb n="63" facs="tcp:93055:35"/>ſeaven neutral <hi>Cantons</hi> of <hi>Switzerland,</hi> and the Authority of the moſt Chriſti<g ref="char:EOLhyphen"/>an King, which (next to Providence) had the chief influence on the negoti<g ref="char:EOLhyphen"/>ation, peace was concluded betwixt the Duke of <hi>Savoy</hi> and the States of <hi>Geneva,</hi> notwithſtanding which peace, the Duke afterwards left no means unaſſayed to ſurprize the City, but all his induſtry and attempts have been ſucceſsleſs.</p>
+            <p>
+               <note place="margin">Combour<g ref="char:EOLhyphen"/>cier <hi>be<g ref="char:EOLhyphen"/>headed.</hi>
+               </note> 
+               <hi>Wedneſday April</hi> the 19th. 1609. Signior <hi>della Cambourcier</hi> Lord of <hi>Ter<g ref="char:EOLhyphen"/>rail</hi> was beheaded in the place of <hi>Mo<g ref="char:EOLhyphen"/>lard</hi> oppoſite to the Harbour, becauſe he had promiſed the Duke of <hi>Savoy</hi> (as he himſelf confeſſed) to aſſault <hi>Geneva</hi> on the ſide of the Harbour, for which purpoſe he came to the City to view and mark out the place.</p>
+            <p>
+               <note place="margin">Peter De la Batide.</note>
+               <hi>Peter della Batide</hi> an ingeneer and complice with <hi>Combourcier</hi> was on the 21ſt. of <hi>April</hi> hanged in the ſame place.</p>
+            <p>As to wealth,<note place="margin">Riches</note> 
+               <hi>Geneva</hi> is none of the Richeſt, though it be Richer at preſent than it was before the Reformation. It is true ſome private perſons uſe their utmoſt endeavours to raiſe themſelves
+<pb n="64" facs="tcp:93055:36"/>by trading in <hi>Germany, Italy, Hol<g ref="char:EOLhyphen"/>land, Switzerland,</hi> and other Neighbour<g ref="char:EOLhyphen"/>ing places, but the number of Mer<g ref="char:EOLhyphen"/>chants is inconſiderable in reſpect of the artificers and tradeſmen.</p>
+            <p>The Trade of Bookſelling is in great eſteem here,<note place="margin">Bookſellers.</note> and there are ſome Book<g ref="char:EOLhyphen"/>ſellers, who have great ſtores and va<g ref="char:EOLhyphen"/>riety of books, eſpecially of ſuch as are prohibited of all ſorts, and in all Lan<g ref="char:EOLhyphen"/>guages, by reaſon of the convenience of the Situation of the place, <hi>Geneva</hi> being as it were the centre to <hi>Germa<g ref="char:EOLhyphen"/>ny, France</hi> and <hi>Italy.</hi>
+            </p>
+            <p>There are about ſeven or eight in <hi>Geneva</hi> who trade for above a hundred thouſand Crowns a year, ſome of which are worth ſo much, but trade not ſo openly as others do, and above a hundred Families who live handſom<g ref="char:EOLhyphen"/>ly and commondiouſly by commerce, but moſt part of the Towns people are employed in handicraft Trades.</p>
+            <p>
+               <hi>Geneva</hi> hath its Laws and inſtituti<g ref="char:EOLhyphen"/>ons, by the <hi>Geneveans</hi> called Edicts,<note place="margin">Laws.</note> taken for moſt part from the Civil law, and the particular cuſtomes of the Country, that have been in practice for two, or three hundred years, but
+<pb n="65" facs="tcp:93055:36"/>in ſuch caſes as are not determined by edicts, they have alwaies recourſe to the Civil Law; theſe edicts ſince they were firſt collected into a body and publiſhed, have been reduced into a better forme and contain two parts, the one concerning the Elections of Magiſtrates, and their duty, and the other relating to the deciſion of Ci<g ref="char:EOLhyphen"/>vil cauſes.</p>
+            <p>
+               <note place="margin">Publick Revenue.</note>The publick Revenue of the State amounts to about one hundred thou<g ref="char:EOLhyphen"/>ſand Crowns, but the Subjects are not at all burthened, paying only for maintaining of the Guards, and ſome ſmall duty for Grinding of their Corn, Importation of Wine, and at preſent a little voluntary Contribution for the fortifications, ſo that a man for himſelf and Family of ſix perſons may pay in all ten Crowns a year; ſuch as have real eſtates pay the accuſtomed tithes, and Merchants the uſual du<g ref="char:EOLhyphen"/>ties.</p>
+            <p>The publick and ordinary expence is conſiderable,<note place="margin">Expences.</note> forty thouſand Crowns a year not being ſufficient to pay the Sallaries of the Counſellers, Miniſters, Profeſſors, Regents, Soldiers, and de<g ref="char:EOLhyphen"/>fray
+<pb n="66" facs="tcp:93055:37"/>the charges of the publick Fab<g ref="char:EOLhyphen"/>ricks, Arſenal, Warlike proviſions and the like; beſides many other caſu<g ref="char:EOLhyphen"/>al and extraordinary charges that happen daily.</p>
+            <p>The Territory of <hi>Geneva</hi> is as health<g ref="char:EOLhyphen"/>full,<note place="margin">Territory.</note> and as fruitful, as it is little and narrow: And therefore moſt part of the <hi>Geneveans</hi> ſettle their eſtates in <hi>Sa<g ref="char:EOLhyphen"/>voy</hi> and <hi>France,</hi> and pay the ſame pub<g ref="char:EOLhyphen"/>lick duties as the native ſubjects of thoſe two Princes do: none of the Neighbour<g ref="char:EOLhyphen"/>ing Princes come near the Territory of <hi>Geneva</hi> for plenty, the <hi>Geneveans</hi> uſeing all dilligence to ſupply what it wants in extent, by pains and culti<g ref="char:EOLhyphen"/>vation; ſo that it produces Corn, Wine, Turnips, Barly, Hay, and all ſorts of Graine, the Fruits it com<g ref="char:EOLhyphen"/>monly yields, are Nuts, Apples, Pears Cherries, Almonds, Cheſnuts, Apri<g ref="char:EOLhyphen"/>coks, but very few Figs.</p>
+            <p>
+               <note place="margin">The Air.</note>The air is good and healthful, be<g ref="char:EOLhyphen"/>ing purified by the North-wind that frequently blows there, the winter is not ſo ſharp as in <hi>Germany,</hi> and o<g ref="char:EOLhyphen"/>ther Northen Countries, nor the Sum<g ref="char:EOLhyphen"/>mer ſo hot, as in <hi>Italy</hi> and ſome pla<g ref="char:EOLhyphen"/>ces of <hi>Dauphiny,</hi> the weather indeed is
+<pb n="67" facs="tcp:93055:37"/>ſometimes exceſſively hot in the Sum<g ref="char:EOLhyphen"/>mer and as cold in the Winter, but that continues but for a few dayes.</p>
+            <p>In times paſt the Inhabitants of <hi>Geneva</hi> have been reckoned dul,<note place="margin">The na<g ref="char:EOLhyphen"/>ture and temper of the people.</note> not to ſay, of a ſilly and blockiſh Spirit, but at preſent by their commerce, with For<g ref="char:EOLhyphen"/>rainers, they are polliſhed and refined, and not only skilful in their workes, but are become ſpeculative and ſubtile, managing their affiairs ſo cunning<g ref="char:EOLhyphen"/>ly that it is not eaſie to over-reach them.</p>
+            <p>
+               <note place="margin">Their jea<g ref="char:EOLhyphen"/>louſie over ſtrangers.</note>They are very obſervant and jeal<g ref="char:EOLhyphen"/>ous of ſtrangers, eſpecially the inferi<g ref="char:EOLhyphen"/>or people; nevertheleſs they are reſpect<g ref="char:EOLhyphen"/>ed and made wellcome, eſpecially ſuch as come to traffick or Sojourne and live in penſion among them; in a word they who have mony and afford them occaſion of profit, are there as in other places, well eſteemed of.</p>
+            <p>
+               <note place="margin">
+                  <hi>Geneveans</hi> good Poli<g ref="char:EOLhyphen"/>ticians.</note>They are very expert in affairs of State, and know well what meaſures to take with their Neighbours, as they have on many occaſions made appear, and certainly if they were not ſo, they had very often been embroyled with the Duke of <hi>Savoy,</hi> which they have
+<pb n="68" facs="tcp:93055:38"/>hitherto prudently avoided<g ref="char:punc">▪</g>
+            </p>
+            <p>
+               <note place="margin">Rigour againſt delin<g ref="char:EOLhyphen"/>quents.</note>They were accuſtomed for a long time to receive and protect all that came and embraced the Reformed Re<g ref="char:EOLhyphen"/>ligion, but at preſent the City being well peopled, they are not ſo ready to admit of ſuch.</p>
+            <p>Thoſe who have committed any crime, in any other place had not beſt flie to <hi>Geneva,</hi> for that City is a cage for ſuch as retreat thither, to avoid puniſhment, and many who have ex<g ref="char:EOLhyphen"/>pected ſafety, have been ſo far diſap<g ref="char:EOLhyphen"/>pointed, that though they had commit<g ref="char:EOLhyphen"/>ted crimes in remote places, yet at the ſuite of the plantiffs they have been made priſoners, where they promiſed themſelves all kind of liberty, and af<g ref="char:EOLhyphen"/>terwards brought to Trial and hang<g ref="char:EOLhyphen"/>ed.</p>
+            <p>
+               <hi>Geneva</hi> hath no Soveraign upon earth,<note place="margin">Soverain<g ref="char:EOLhyphen"/>ry.</note> and depends upon none but God Al<g ref="char:EOLhyphen"/>mighty, the Senate having the ſame authority in their ſtate, that the great<g ref="char:EOLhyphen"/>eſt Monarch in the world has in his own dominions and are as careful to preſerve it.</p>
+            <p>Strangers who paſs through or So<g ref="char:EOLhyphen"/>journe at penſions in <hi>Geneva,</hi> are kind<g ref="char:EOLhyphen"/>ly
+<pb n="69" facs="tcp:93055:38"/>received by the Inhabitants, and to gratifie them the Senate does affecti<g ref="char:EOLhyphen"/>onately protect them, cauſing them to be treated with all imaginable civility, inſomuch that offences that in other places would be ſeverely puniſhed, are paſſed over, and connived at in <hi>Geneva,</hi> for the honour and reſpects ſake, which is ſhewed there to Gentlemen Travel<g ref="char:EOLhyphen"/>ers.</p>
+            <p>It is a common but falſe report in <hi>Italy,</hi> that Monks, Friers,<note place="margin">Religions.</note> Prieſts of the Church of <hi>Rome,</hi> are badly uſed when they paſs through <hi>Geneva,</hi> for they themſelves find the contrary in their Travels, and if any man ſhould offer inſolence to a Prieſt, or Frier in that City, he would certainly be pun<g ref="char:EOLhyphen"/>iſhed, nor do the people refuſe Charity and lodging to the poor Religious when they demand it.</p>
+            <p>The rate of penſions for diet,<note place="margin">Penſions.</note> is com<g ref="char:EOLhyphen"/>monly twelve Crowns a month for the Maſter, and ſix for the Servant, but there are inferiour penſions alſo, to wit, from ſeaven to eight Crowns a man, and the entertainment according to the price, nevertheleſs for Gentlemen who expect to be well treated, the
+<pb n="70" facs="tcp:93055:39"/>loweſt is ten and the higheſt twelve Crowns a month all the City over:</p>
+            <p>Fiſhing in the Lake of this City is very conſiderable both for profit and pleaſure,<note place="margin">Fiſhing.</note> they commonly take trouts of four ſcore pound weight at twelve oun<g ref="char:EOLhyphen"/>ces the pound, and in the midle of the River oppoſite to the Town pre<g ref="char:EOLhyphen"/>ſerve their fiſh alive for uſe, in two lit<g ref="char:EOLhyphen"/>tle deal board houſes made for that purpoſe.</p>
+            <p>In the Summer time it is a very plea<g ref="char:EOLhyphen"/>ſant recreation to go a Fiſhing here, and both ſtrangers, and Citizens mighti<g ref="char:EOLhyphen"/>ly delight in it.</p>
+            <p>All ſorts of exerciſes are taught in this City,<note place="margin">Exerciſes.</note> as well as in any other place; there is a good Maſter for riding the great Horſe, and for the firſt month four Piſtols, and three for every month after, he has a Stable very well furniſh<g ref="char:EOLhyphen"/>ed with Horſes; For Fencing, Dance<g ref="char:EOLhyphen"/>ing, Mathematicks, Geography and the Languages, there is choice of Ma<g ref="char:EOLhyphen"/>ſters alſo, ſo that Travellers may So<g ref="char:EOLhyphen"/>journe in this City with as much eaſe to the purſe, and advantage for E<g ref="char:EOLhyphen"/>ducation as in moſt parts of <hi>Europe.</hi>
+            </p>
+            <p>
+               <note place="margin">Inns.</note>There are many Inns and publick
+<pb n="71" facs="tcp:93055:39"/>Houſes here, in all of which as a Tra<g ref="char:EOLhyphen"/>veller is of quality, and intends to or<g ref="char:EOLhyphen"/>der his expences, he will find enter<g ref="char:EOLhyphen"/>tainment anſwerable to the rate he payes.</p>
+            <p>
+               <note place="margin">The Arms of <hi>Geneva.</hi>
+               </note>The Armes of <hi>Geneva</hi> are a half Eagle and Key, the Eagle ſignifying that the City is Imperial, and the Key, that it hath been an Epiſcopal See; but the Antient Arms of that City was a Sun, which they ſtill uſe on a Seal, and has been retained ſince the time that <hi>Geneva</hi> (as has been al<g ref="char:EOLhyphen"/>ready obſerved) worſhipped <hi>Apollo.</hi>
+            </p>
+            <p>
+               <note place="margin">The Poſts.</note>The <hi>French</hi> Poſt comes hither twice a weak, to wit on <hi>Monday</hi> at ten of the Clock in the morning, and parts on <hi>Tueſday</hi> at noon, and on <hi>Friday</hi> in the Morning which parts again in the Evening, the price of a ſingle Let<g ref="char:EOLhyphen"/>ter from <hi>Lions</hi> to <hi>Geneva</hi> paying three Solzs.</p>
+            <p>Twice a week the Meſſenger or Car<g ref="char:EOLhyphen"/>rier arrives alſo, his buſineſs is to con<g ref="char:EOLhyphen"/>vey to and fro between <hi>Lions</hi> and <hi>Ge<g ref="char:EOLhyphen"/>neva</hi> all ſorts of goods, and to con<g ref="char:EOLhyphen"/>duct Strangers that are pleaſed to Tra<g ref="char:EOLhyphen"/>vel with him, a ſingle perſon pays him for paſſage, and entertainment upon
+<pb n="72" facs="tcp:93055:40"/>the rode about a Piſtol, and for every pound of goods at ſixteen ounces the pound tow Solzs.</p>
+            <p>The <hi>German</hi> Poſt comes in on <hi>Mon<g ref="char:EOLhyphen"/>day</hi> towards Evening, and goes out on <hi>Tueſday</hi> at the ſame time. The Let<g ref="char:EOLhyphen"/>ters pay more, or leſs according to the diſtance of the place from whence they come.</p>
+            <p>The Poſt of <hi>Turin</hi> which brings all the Letters of <hi>Italy,</hi> comes in on <hi>Wedneſday</hi> and ſets out on <hi>Thurſday,</hi> but all Letters that are ſent by that Poſt, muſt be paid for to <hi>Cambray.</hi>
+            </p>
+            <p>
+               <note place="margin">Hackney Horſes and Coaches.</note>There is no want of Hackney Horſ<g ref="char:EOLhyphen"/>es nor of Meſſengers, or Vittorins (as they are called) in <hi>Geneva,</hi> the uſual hire of a Horſe is twenty Solz a day, ſuch as Travel with the Vittorin pay for all charges, at moſt half a Piſtol a day a peace, and if the Company be greater the rates will be leſs; you may likewiſe have Hackney Litters at the rate of a Piſtol a day leſs or more, ac<g ref="char:EOLhyphen"/>cording to the ſeaſon of the year, or circumſtances of the Maſter. Here are to be had no Hackny Coaches, and there are not above ſeven or eight per<g ref="char:EOLhyphen"/>ſons who keep Coaches in this Town.</p>
+            <pb n="73" facs="tcp:93055:40"/>
+            <p>Three Faires a year are kept here,<note place="margin">Faires.</note> to wit on the twenty ninth of <hi>June,</hi> the firſt of <hi>Auguſt,</hi> and the twenty ſe<g ref="char:EOLhyphen"/>cond of <hi>February;</hi> but they are but ordinary Faires, the Trade running chiefly in beaſts, eſpecially Horſes and Cattel; there is a Magiſtrate appoint<g ref="char:EOLhyphen"/>ed over the firſt to decide the contro<g ref="char:EOLhyphen"/>verſies that may happen; each Fair laſts three dayes, and on the ſecond all the Inhabitants are obliged to wear Swords, the Guards of the City and Gates being for Greater ſecurity rein<g ref="char:EOLhyphen"/>forced that day.</p>
+            <p>They have two weekly Markets al<g ref="char:EOLhyphen"/>ſo, on <hi>Wedneſday</hi> and <hi>Saturday</hi> Morn<g ref="char:EOLhyphen"/>ings, which are frequented by vaſt numbers of <hi>Savoyards</hi> and <hi>French</hi> from the County of <hi>Gez,</hi> who ſupply the City with all manner of proviſions, and buy from thence what they need in the Countrey.</p>
+            <p>This is all that can be ſaid concern<g ref="char:EOLhyphen"/>ing the State and Government of <hi>Ge<g ref="char:EOLhyphen"/>neva,</hi> but before we bring this little Treatiſe to a concluſion, It will not be amiſs to take ſome notice of the <hi>French</hi> Kings late reſolution of ſetling a Re<g ref="char:EOLhyphen"/>ſident in that City: Whereby, as he
+<pb n="74" facs="tcp:93055:41"/>had a probable opportunity of intro<g ref="char:EOLhyphen"/>ducing the Maſs into that place, ſo had he a particular deſign, by making ap<g ref="char:EOLhyphen"/>pear that the protection of that Repub<g ref="char:EOLhyphen"/>lick belonged to him, to put a ſtop to the pretention of the <hi>Switzers,</hi> who, (eſpecially thoſe of the Canton of <hi>Bearn</hi>) endeavoured in effect under pretence of Friendſhip and alliance to skrew themſelves into a kind of Au<g ref="char:EOLhyphen"/>thority there; inſomuch that upon the leaſt occaſion they wrote Letters to the Magiſtrates of <hi>Geneva</hi> in ſo imper<g ref="char:EOLhyphen"/>ious a ſtyle, that they ſeemed rather to command than entreat. But the <hi>French</hi> (who of late are ſeldome aſleep when their intereſt lies at ſtake, and who pretend to ſway or give laws to all <hi>Europe</hi>) having the matter in the wind, thought it convenient to ſend a Reſident to <hi>Geneva,</hi> to the end that by exerciſing there ſome litte Juriſdicti<g ref="char:EOLhyphen"/>on by which the Law of Nations is al<g ref="char:EOLhyphen"/>lowed to publick Miniſters, they might baulk the <hi>Switzers</hi> in their pretenſi<g ref="char:EOLhyphen"/>ons, and confirm their King ſole Protector of that City and Repub<g ref="char:EOLhyphen"/>lick.</p>
+            <p>About the end therefore of the year
+<pb n="75" facs="tcp:93055:41"/>1679, Mounſieur <hi>Chanvigny</hi> was ſent Reſident to <hi>Geneva,</hi> a man of a low Stature, but hotter temper than well ſuited with his Age of threeſcore years. This man having a Son in orders, and in expectation of Preferment, that he might curry favour with the Church<g ref="char:EOLhyphen"/>men, and eſpecially the Court of <hi>Rome,</hi> began to exerciſe his charge with ex<g ref="char:EOLhyphen"/>treme violence, inſomuch that not ſatisfied with the allowance of a Chap<g ref="char:EOLhyphen"/>pel in his own Houſe for his private devotion, he wrote Letters all about, inviting the Catholicks in the Neigh<g ref="char:EOLhyphen"/>bourhood at <hi>Geneva</hi> to come publickly to Maſs at his Houſe.</p>
+            <p>Nor did he ſtop here, but ſollicited all the Curats and Monks in thoſe parts to come and ſay Maſs in <hi>Geneva,</hi> and often employed ſeveral of the Jeſuits of <hi>Horne</hi> to Preach, inviting all the Neighbouring Catholicks to the exer<g ref="char:EOLhyphen"/>ciſe. This was ſo ill reliſhed by the People, that ſome of the rabble caſt of all reſpect due to a Perſon of his Character, ſo that two of them were committed to Priſon, being ac<g ref="char:EOLhyphen"/>cuſed for having fired ſome Piſtol-ſhot within the Court of the ſaid Reſident.
+<pb n="76" facs="tcp:93055:42"/>The noiſe of this reaching as far as <hi>Paris,</hi> moved the moſt Chriſtian King to take information of the matter of Fact, who, thereupon ordered the releaſing of the Poiſoners, and recalled <hi>Chanvigny</hi> to <hi>Paris,</hi> ſending in his place Monſieur <hi>du Pré,</hi> a perſon of very great experi<g ref="char:EOLhyphen"/>ence, as the offices which he hath diſ<g ref="char:EOLhyphen"/>charged hath ſufficiently made appear: And the truth is, this Gentleman lives in very good correſpondence, both with the Senate and people; and tho he have Maſs ſaid in his Houſe, yet it is with ſuch moderation, as in appear<g ref="char:EOLhyphen"/>ance removes all <gap reason="illegible" resp="#UOM" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap>nſie from the minds of the People, who now begin to be acquainted with the freakiſhneſs and in conſtancy of Fortune.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:93055:42"/>
+            <head>A Catalogue of Books Printed for <hi>William Cademan</hi> Bookseller at the <hi>Popes-head</hi> in the <hi>New-Ex<g ref="char:EOLhyphen"/>change</hi> in the <hi>Strand.</hi>
+            </head>
+            <list>
+               <head>Folio.</head>
+               <item>AN Inſtitution of General Hiſtory, or the Hiſtory of the World, by <hi>William Howel,</hi> L. L. D. in two Vol:</item>
+               <item>Hiſtorical Collections, or an exact ac<g ref="char:EOLhyphen"/>count of the proceeding of the four laſt Parliaments of Queen <hi>Elizabeth</hi> of famous Memory.</item>
+               <item>Pharamond Compleat. Engliſh.</item>
+               <item>Clelia a Romance. Engliſh.</item>
+               <item>Partheniſſa Compleat. Engliſh.</item>
+               <item>An Hiſtorical Heroick Poem on the Right Honourable <hi>Thomas</hi> Earl of <hi>Oſſory,</hi> Written by <hi>Elkanah Settle.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Quarto.</head>
+               <item>An Hiſtorical relation of the firſt diſ<g ref="char:EOLhyphen"/>covery of the Iſle of <hi>Madera.</hi>
+               </item>
+               <item>The Proteſtant Religion is a ſure foun<g ref="char:EOLhyphen"/>dation, <hi>&amp;c.</hi> by the Right Honour<g ref="char:EOLhyphen"/>able <hi>Charles</hi> Earl of <hi>Derby.</hi>
+               </item>
+               <pb facs="tcp:93055:43"/>
+               <item>The Jeſuits Policy to ſuppreſs Monar<g ref="char:EOLhyphen"/>chy, by a Perſon of Honour.</item>
+               <item>A warning Peace for the unready in two Viſitation Sermons at <hi>Preſton,</hi> by <hi>Seth Buſhel,</hi> D. D.</item>
+               <item>The great Efficacy and neceſſity of good Examples, eſpecially in the Clergy; in a Viſitation Sermon at <hi>Guilford,</hi> by <hi>Thomas Duncomb,</hi> D. D.</item>
+               <item>A Sermon Preached before the King, by <hi>Miles Barne,</hi> Chaplain in Ordi<g ref="char:EOLhyphen"/>nary to his Majeſty.</item>
+               <item>A Sermon Preached at the Aſſiſes at <hi>Lancaſter,</hi> by <hi>Henery Pigot,</hi> B. D.</item>
+               <item>Gods Revenge againſt Murther, de<g ref="char:EOLhyphen"/>monſtrated in the Perſecution of <hi>Henry Symbal</hi> and <hi>William Jones,</hi> Executed for the Murthering Sir <hi>Richard Sandford.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Plays in Quarto.</head>
+               <item>The Rivalls, a Comedy.</item>
+               <item>Catalines Conſpiracy.</item>
+               <item>Iſland Princeſs.</item>
+               <item>Flora's Vagaries.</item>
+               <item>Town Shifts.</item>
+               <item>Citizen turned Gentleman.</item>
+               <item>Morning Ramble.</item>
+               <item>Macbeth.</item>
+               <pb facs="tcp:93055:43"/>
+               <item>Cambyſes</item>
+               <item>Empreſs of <hi>Morocco.</hi>
+               </item>
+               <item>Conqueſt of <hi>China.</hi>
+               </item>
+               <item>
+                  <hi>Herod</hi> and <hi>Mariamne</hi>
+               </item>
+               <item>Notes on <hi>Morocco.</hi>
+               </item>
+               <item>
+                  <hi>Ibrahim.</hi>
+               </item>
+               <item>Love and Revenge.</item>
+               <item>Paſtor Fido.</item>
+               <item>Pope <hi>Joan.</hi>
+               </item>
+               <item>Fatal Love or forc't inconſtancy.</item>
+               <item>Careleſs Lovers.</item>
+               <item>Engliſh Princeſs.</item>
+               <item>Reformation.</item>
+               <item>Spaniſh Rogue.</item>
+               <item>
+                  <hi>Marcelia.</hi>
+               </item>
+               <item>The Mall.</item>
+               <item>Rehearſal.</item>
+               <item>Mock Tempeſt,</item>
+               <item>Dumb Lady.</item>
+               <item>Gentleman Dancing Maſter.</item>
+               <item>Alcibiades.</item>
+               <item>Dutch Lovers.</item>
+               <item>Pyſoes Conſpiracy.</item>
+               <item>Siege of Memphis.</item>
+               <item>Rival Kings.</item>
+               <item>Conſtant Nimph.</item>
+               <item>Wrangling Lover.</item>
+               <item>Tom Eſſence.</item>
+               <item>French Conjurer.</item>
+               <pb facs="tcp:93055:44" rendition="simple:additions"/>
+               <item>Wits Led by the Noſe.</item>
+               <item>Counterfeit Bridgroom</item>
+               <item>Tunbridge Wells.</item>
+               <item>Conſpiracy or Change of Government.</item>
+               <item>Revenge or a Match in <hi>Newgate.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Octavo and Twelves.</head>
+               <item>The Spaniſh Hiſtory, or the differences that hapned in the Court of <hi>Spain</hi> between Don <hi>John</hi> of <hi>Auſtria</hi> and Cardinal <hi>Nitard,</hi> with all the Let<g ref="char:EOLhyphen"/>ters and the Politick Diſcourſes re<g ref="char:EOLhyphen"/>lating to thoſe Affairs.</item>
+               <item>Reflections upon Ancient and modern Philoſophy.</item>
+               <item>The Engliſh Princeſs or the Ducheſs Queen. A pleaſant Novel.</item>
+               <item>Court-ſongs and Poems, being an exact Collection.</item>
+               <item>The Temple of Death, with other Poems, by a perſon of honour.</item>
+               <item>Hogan Moganides, or the Dutch Hudi<g ref="char:EOLhyphen"/>bras.</item>
+               <item>Liquor Alcaheſt, or the Immotal Diſſol<g ref="char:EOLhyphen"/>vert of Paracelſus and Helmont.</item>
+               <item>Philoſophical Eſſay, or the hiſtory of Putrifaction by Dr. <hi>Sherly.</hi>
+               </item>
+            </list>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:93055:44" rendition="simple:additions"/>
+         </div>
+      </back>
+   </text>
+</TEI>
